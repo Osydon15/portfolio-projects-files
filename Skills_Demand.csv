@@ -1,0 +1,1390 @@
+Record ID,State,Skill,Demand Reason,Target Audience,Year,Demand Level
+1,Plateau,Content Writing,Market Demand,Youth,2017,Medium
+2,Enugu,Carpentry,Technological Advancement,Youth,2018,Medium
+3,Oyo,Digital Marketing,Youth Empowerment,Graduates,2015,Low
+4,Abuja,Digital Marketing,Youth Empowerment,Graduates,2015,High
+5,Benue,Cybersecurity,High Unemployment,Artisans,2022,Medium
+6,Rivers,Mobile App Development,Youth Empowerment,Graduates,2013,High
+7,Delta,Agribusiness,Government Initiatives,Youth,2017,Low
+8,Kano,Content Writing,Global Trends,Entrepreneurs,2016,Medium
+9,Plateau,Tailoring,High Unemployment,Entrepreneurs,2014,High
+10,Kano,Mobile App Development,Technological Advancement,Women,2012,Low
+11,Edo,Web Development,Market Demand,Youth,2013,Low
+12,Cross River,Graphic Design,High Unemployment,Graduates,2022,Low
+13,Enugu,Welding,Global Trends,Entrepreneurs,2020,Medium
+14,Enugu,Plumbing,Entrepreneurship Opportunities,Women,2011,High
+15,Borno,Welding,Youth Empowerment,Entrepreneurs,2011,High
+16,Anambra,Plumbing,Government Initiatives,Youth,2010,Low
+17,Lagos,Tailoring,Youth Empowerment,Women,2015,Low
+18,Cross River,Cybersecurity,Market Demand,Entrepreneurs,2015,Low
+19,Edo,Welding,High Unemployment,Women,2023,Medium
+20,Kano,Tailoring,Government Initiatives,Artisans,2010,Low
+21,Oyo,Welding,Government Initiatives,Women,2015,High
+22,Delta,Cybersecurity,Entrepreneurship Opportunities,Artisans,2013,Medium
+23,Lagos,Carpentry,Technological Advancement,Graduates,2018,Low
+24,Abuja,Photography,Youth Empowerment,Youth,2022,High
+25,Delta,Carpentry,Government Initiatives,Youth,2020,Low
+26,Kano,Data Analysis,Government Initiatives,Graduates,2016,High
+27,Enugu,Digital Marketing,Market Demand,Youth,2012,Medium
+28,Kano,Digital Marketing,Youth Empowerment,Artisans,2013,Medium
+29,Borno,Photography,Technological Advancement,Artisans,2010,High
+30,Borno,Content Writing,Market Demand,Artisans,2010,High
+31,Plateau,Hairdressing,Entrepreneurship Opportunities,Youth,2014,Medium
+32,Cross River,Agribusiness,Technological Advancement,Women,2011,Medium
+33,Benue,Agribusiness,Government Initiatives,Artisans,2014,Low
+34,Cross River,Web Development,Entrepreneurship Opportunities,Entrepreneurs,2023,Medium
+35,Edo,Hairdressing,Youth Empowerment,Artisans,2021,High
+36,Ogun,Web Development,Global Trends,Youth,2014,Low
+37,Delta,Content Writing,Entrepreneurship Opportunities,Women,2022,Low
+38,Ogun,Data Analysis,Youth Empowerment,Artisans,2017,High
+39,Lagos,Data Analysis,High Unemployment,Entrepreneurs,2023,Medium
+40,Kaduna,Mobile App Development,Market Demand,Graduates,2018,Low
+41,Kaduna,Content Writing,Technological Advancement,Women,2019,Low
+42,Cross River,Tailoring,Market Demand,Graduates,2016,Medium
+43,Kaduna,Welding,Youth Empowerment,Youth,2011,High
+44,Delta,Carpentry,Youth Empowerment,Youth,2020,Medium
+45,Abuja,Catering and Hospitality,High Unemployment,Youth,2014,Medium
+46,Enugu,Digital Marketing,Government Initiatives,Women,2013,High
+47,Oyo,Graphic Design,Market Demand,Women,2020,High
+48,Anambra,Digital Marketing,Market Demand,Entrepreneurs,2014,Low
+49,Abuja,Catering and Hospitality,Government Initiatives,Entrepreneurs,2017,Medium
+50,Ogun,Catering and Hospitality,Government Initiatives,Artisans,2013,Medium
+51,Enugu,Welding,Government Initiatives,Youth,2020,Medium
+52,Borno,Digital Marketing,Entrepreneurship Opportunities,Women,2016,High
+53,Oyo,Agribusiness,Global Trends,Entrepreneurs,2015,Low
+54,Cross River,Agribusiness,Government Initiatives,Artisans,2012,Low
+55,Abuja,Cybersecurity,Government Initiatives,Artisans,2023,High
+56,Lagos,Content Writing,Entrepreneurship Opportunities,Artisans,2022,High
+57,Abuja,Content Writing,High Unemployment,Graduates,2012,High
+58,Anambra,Welding,Youth Empowerment,Youth,2016,High
+59,Borno,Plumbing,Youth Empowerment,Entrepreneurs,2017,Medium
+60,Anambra,Content Writing,Government Initiatives,Women,2011,Medium
+61,Rivers,Photography,Technological Advancement,Women,2017,Medium
+62,Borno,Tailoring,Government Initiatives,Artisans,2012,Low
+63,Abuja,Tailoring,Government Initiatives,Artisans,2018,Low
+64,Lagos,Web Development,Youth Empowerment,Entrepreneurs,2010,Low
+65,Benue,Graphic Design,High Unemployment,Graduates,2017,Medium
+66,Rivers,Digital Marketing,Youth Empowerment,Entrepreneurs,2011,Medium
+67,Rivers,Content Writing,High Unemployment,Entrepreneurs,2013,Low
+68,Plateau,Mobile App Development,Market Demand,Entrepreneurs,2021,High
+69,Delta,Cybersecurity,Global Trends,Artisans,2015,Low
+70,Delta,Web Development,Global Trends,Graduates,2021,High
+71,Cross River,Mobile App Development,Government Initiatives,Women,2013,Low
+72,Kaduna,Hairdressing,Global Trends,Graduates,2020,Medium
+73,Lagos,Photography,Technological Advancement,Artisans,2018,High
+74,Abuja,Cybersecurity,Entrepreneurship Opportunities,Artisans,2019,Low
+75,Edo,Carpentry,Global Trends,Youth,2023,High
+76,Borno,Agribusiness,Government Initiatives,Youth,2021,High
+77,Kaduna,Digital Marketing,High Unemployment,Entrepreneurs,2021,High
+78,Kano,Cybersecurity,Market Demand,Youth,2019,High
+79,Kaduna,Agribusiness,Global Trends,Youth,2012,Medium
+80,Delta,Tailoring,Government Initiatives,Artisans,2023,Medium
+81,Kano,Mobile App Development,High Unemployment,Graduates,2014,High
+82,Oyo,Plumbing,Technological Advancement,Artisans,2011,Low
+83,Kano,Photography,Youth Empowerment,Artisans,2021,High
+84,Edo,Content Writing,High Unemployment,Graduates,2016,Low
+85,Rivers,Cybersecurity,High Unemployment,Entrepreneurs,2022,Low
+86,Kano,Hairdressing,Global Trends,Entrepreneurs,2015,Low
+87,Plateau,Web Development,Government Initiatives,Artisans,2022,Low
+88,Abuja,Agribusiness,Technological Advancement,Youth,2020,High
+89,Borno,Welding,Entrepreneurship Opportunities,Entrepreneurs,2013,High
+90,Kano,Digital Marketing,High Unemployment,Youth,2019,High
+91,Lagos,Graphic Design,Global Trends,Entrepreneurs,2020,Medium
+92,Plateau,Catering and Hospitality,Global Trends,Entrepreneurs,2018,High
+93,Borno,Catering and Hospitality,Market Demand,Graduates,2012,Low
+94,Plateau,Catering and Hospitality,Youth Empowerment,Women,2013,High
+95,Kaduna,Hairdressing,High Unemployment,Youth,2014,High
+96,Benue,Web Development,Technological Advancement,Entrepreneurs,2022,Low
+97,Anambra,Plumbing,Market Demand,Women,2023,Low
+98,Kano,Carpentry,Entrepreneurship Opportunities,Youth,2021,Low
+99,Benue,Tailoring,Market Demand,Entrepreneurs,2023,Low
+100,Benue,Graphic Design,Technological Advancement,Youth,2015,High
+101,Kano,Graphic Design,High Unemployment,Graduates,2020,Medium
+102,Plateau,Welding,Entrepreneurship Opportunities,Graduates,2017,Medium
+103,Oyo,Agribusiness,Government Initiatives,Artisans,2017,High
+104,Cross River,Web Development,Entrepreneurship Opportunities,Artisans,2018,Medium
+105,Anambra,Graphic Design,Entrepreneurship Opportunities,Women,2011,Low
+106,Delta,Cybersecurity,Government Initiatives,Youth,2014,Medium
+107,Ogun,Data Analysis,Entrepreneurship Opportunities,Entrepreneurs,2021,Medium
+108,Rivers,Carpentry,Global Trends,Youth,2010,Low
+109,Lagos,Catering and Hospitality,Technological Advancement,Entrepreneurs,2012,Medium
+110,Kano,Hairdressing,Technological Advancement,Entrepreneurs,2021,Low
+111,Edo,Hairdressing,High Unemployment,Youth,2012,High
+112,Cross River,Mobile App Development,Government Initiatives,Graduates,2019,Low
+113,Delta,Agribusiness,High Unemployment,Women,2023,Low
+114,Anambra,Plumbing,Youth Empowerment,Graduates,2021,Medium
+115,Cross River,Mobile App Development,Market Demand,Artisans,2021,Low
+116,Edo,Mobile App Development,Youth Empowerment,Artisans,2014,High
+117,Anambra,Tailoring,Market Demand,Women,2021,Low
+118,Edo,Digital Marketing,Government Initiatives,Entrepreneurs,2015,High
+119,Ogun,Catering and Hospitality,Youth Empowerment,Artisans,2013,High
+120,Plateau,Tailoring,Government Initiatives,Artisans,2020,High
+121,Oyo,Data Analysis,Youth Empowerment,Entrepreneurs,2023,Medium
+122,Abuja,Catering and Hospitality,Government Initiatives,Women,2018,Medium
+123,Plateau,Plumbing,High Unemployment,Women,2022,Low
+124,Anambra,Agribusiness,Global Trends,Graduates,2022,Medium
+125,Rivers,Welding,Market Demand,Entrepreneurs,2023,Medium
+126,Edo,Hairdressing,Entrepreneurship Opportunities,Women,2016,Low
+127,Benue,Hairdressing,Technological Advancement,Women,2014,Medium
+128,Plateau,Cybersecurity,Government Initiatives,Women,2017,High
+129,Cross River,Data Analysis,Government Initiatives,Youth,2018,Medium
+130,Ogun,Cybersecurity,High Unemployment,Artisans,2013,High
+131,Anambra,Cybersecurity,Market Demand,Youth,2018,High
+132,Kaduna,Cybersecurity,Entrepreneurship Opportunities,Women,2013,High
+133,Oyo,Hairdressing,Global Trends,Graduates,2011,Low
+134,Oyo,Catering and Hospitality,Market Demand,Youth,2010,High
+135,Oyo,Cybersecurity,High Unemployment,Entrepreneurs,2014,Medium
+136,Lagos,Carpentry,Market Demand,Graduates,2013,High
+137,Anambra,Digital Marketing,High Unemployment,Graduates,2018,High
+138,Anambra,Content Writing,Government Initiatives,Graduates,2015,High
+139,Kaduna,Plumbing,Market Demand,Artisans,2019,Medium
+140,Oyo,Digital Marketing,Youth Empowerment,Graduates,2013,Low
+141,Cross River,Welding,Technological Advancement,Women,2016,Low
+142,Anambra,Digital Marketing,High Unemployment,Graduates,2011,Low
+143,Oyo,Web Development,Technological Advancement,Youth,2015,Low
+144,Benue,Content Writing,Technological Advancement,Youth,2019,Medium
+145,Kano,Data Analysis,Entrepreneurship Opportunities,Entrepreneurs,2022,High
+146,Edo,Mobile App Development,Government Initiatives,Artisans,2016,Low
+147,Ogun,Web Development,Global Trends,Graduates,2014,High
+148,Ogun,Data Analysis,Government Initiatives,Women,2018,Low
+149,Lagos,Plumbing,Global Trends,Entrepreneurs,2014,High
+150,Plateau,Agribusiness,Market Demand,Artisans,2016,High
+151,Oyo,Hairdressing,High Unemployment,Graduates,2015,Medium
+152,Anambra,Agribusiness,Technological Advancement,Artisans,2013,Medium
+153,Lagos,Data Analysis,Technological Advancement,Artisans,2013,High
+154,Lagos,Graphic Design,High Unemployment,Women,2023,High
+155,Ogun,Digital Marketing,Youth Empowerment,Women,2021,Medium
+156,Kano,Content Writing,Technological Advancement,Youth,2014,High
+157,Oyo,Data Analysis,High Unemployment,Entrepreneurs,2020,Low
+158,Cross River,Data Analysis,Global Trends,Artisans,2022,High
+159,Benue,Carpentry,High Unemployment,Women,2023,Low
+160,Edo,Data Analysis,Government Initiatives,Artisans,2010,Low
+161,Enugu,Hairdressing,Youth Empowerment,Artisans,2015,Medium
+162,Kano,Photography,Technological Advancement,Graduates,2015,Medium
+163,Oyo,Cybersecurity,High Unemployment,Youth,2014,Low
+164,Anambra,Digital Marketing,Entrepreneurship Opportunities,Youth,2011,Medium
+165,Delta,Photography,Entrepreneurship Opportunities,Artisans,2023,High
+166,Kano,Catering and Hospitality,Technological Advancement,Youth,2018,Medium
+167,Oyo,Catering and Hospitality,Market Demand,Graduates,2018,Low
+168,Kaduna,Tailoring,Market Demand,Entrepreneurs,2021,Low
+169,Lagos,Hairdressing,Entrepreneurship Opportunities,Women,2013,High
+170,Edo,Catering and Hospitality,Global Trends,Youth,2017,High
+171,Oyo,Digital Marketing,Global Trends,Artisans,2023,Medium
+172,Kano,Tailoring,Global Trends,Artisans,2022,Medium
+173,Kano,Agribusiness,High Unemployment,Artisans,2018,High
+174,Kaduna,Plumbing,Youth Empowerment,Graduates,2021,Medium
+175,Benue,Carpentry,High Unemployment,Graduates,2022,Low
+176,Anambra,Carpentry,Market Demand,Women,2018,High
+177,Lagos,Photography,Global Trends,Graduates,2015,Medium
+178,Kaduna,Tailoring,Youth Empowerment,Artisans,2017,Low
+179,Kaduna,Cybersecurity,Market Demand,Youth,2011,Low
+180,Anambra,Cybersecurity,Technological Advancement,Artisans,2019,Medium
+181,Abuja,Carpentry,High Unemployment,Entrepreneurs,2022,High
+182,Edo,Agribusiness,High Unemployment,Youth,2013,Low
+183,Oyo,Welding,Technological Advancement,Graduates,2018,Low
+184,Lagos,Web Development,Technological Advancement,Entrepreneurs,2017,High
+185,Kano,Welding,Government Initiatives,Youth,2019,Medium
+186,Kano,Mobile App Development,Market Demand,Entrepreneurs,2020,Low
+187,Kano,Hairdressing,Market Demand,Graduates,2018,High
+188,Edo,Hairdressing,Technological Advancement,Graduates,2017,Low
+189,Cross River,Plumbing,Entrepreneurship Opportunities,Youth,2015,High
+190,Benue,Graphic Design,Government Initiatives,Artisans,2019,Medium
+191,Edo,Web Development,Government Initiatives,Artisans,2020,Medium
+192,Edo,Plumbing,Government Initiatives,Graduates,2013,High
+193,Enugu,Data Analysis,Entrepreneurship Opportunities,Entrepreneurs,2017,Low
+194,Delta,Hairdressing,Youth Empowerment,Entrepreneurs,2010,High
+195,Rivers,Hairdressing,Technological Advancement,Entrepreneurs,2014,High
+196,Enugu,Plumbing,Market Demand,Artisans,2022,High
+197,Abuja,Carpentry,Technological Advancement,Graduates,2010,High
+198,Abuja,Welding,Technological Advancement,Artisans,2022,Low
+199,Ogun,Welding,Market Demand,Women,2017,Low
+200,Delta,Web Development,Youth Empowerment,Women,2017,Low
+201,Cross River,Hairdressing,Government Initiatives,Graduates,2010,Low
+202,Ogun,Welding,Technological Advancement,Entrepreneurs,2011,Low
+203,Rivers,Photography,Global Trends,Graduates,2019,Low
+204,Delta,Hairdressing,High Unemployment,Entrepreneurs,2020,High
+205,Kaduna,Welding,Market Demand,Graduates,2017,Low
+206,Oyo,Digital Marketing,Market Demand,Youth,2010,Low
+207,Delta,Catering and Hospitality,Youth Empowerment,Entrepreneurs,2011,High
+208,Lagos,Photography,High Unemployment,Artisans,2010,High
+209,Edo,Photography,Market Demand,Graduates,2015,Low
+210,Lagos,Catering and Hospitality,Market Demand,Women,2012,Medium
+211,Ogun,Hairdressing,High Unemployment,Women,2016,Medium
+212,Ogun,Graphic Design,Market Demand,Youth,2018,Medium
+213,Lagos,Carpentry,High Unemployment,Graduates,2014,High
+214,Lagos,Digital Marketing,Technological Advancement,Artisans,2019,Low
+215,Cross River,Carpentry,Youth Empowerment,Women,2021,Low
+216,Cross River,Catering and Hospitality,Market Demand,Graduates,2014,Medium
+217,Benue,Welding,High Unemployment,Youth,2011,Low
+218,Kano,Photography,Technological Advancement,Women,2020,Low
+219,Oyo,Cybersecurity,Government Initiatives,Women,2011,Medium
+220,Delta,Tailoring,Global Trends,Artisans,2021,Medium
+221,Ogun,Web Development,Market Demand,Graduates,2014,Medium
+222,Kaduna,Digital Marketing,High Unemployment,Youth,2011,High
+223,Delta,Graphic Design,High Unemployment,Entrepreneurs,2019,Low
+224,Rivers,Cybersecurity,Youth Empowerment,Entrepreneurs,2018,High
+225,Abuja,Digital Marketing,Government Initiatives,Youth,2022,High
+226,Borno,Plumbing,Youth Empowerment,Graduates,2014,High
+227,Oyo,Content Writing,Global Trends,Graduates,2013,Medium
+228,Abuja,Hairdressing,Youth Empowerment,Youth,2018,High
+229,Delta,Content Writing,Government Initiatives,Graduates,2015,High
+230,Enugu,Agribusiness,Market Demand,Entrepreneurs,2014,Medium
+231,Benue,Carpentry,Government Initiatives,Youth,2013,Medium
+232,Abuja,Plumbing,High Unemployment,Entrepreneurs,2015,High
+233,Lagos,Agribusiness,High Unemployment,Artisans,2019,High
+234,Lagos,Catering and Hospitality,Global Trends,Graduates,2011,Medium
+235,Abuja,Mobile App Development,Youth Empowerment,Graduates,2013,Medium
+236,Kaduna,Agribusiness,Global Trends,Women,2010,High
+237,Cross River,Mobile App Development,Technological Advancement,Entrepreneurs,2015,Low
+238,Benue,Plumbing,Technological Advancement,Entrepreneurs,2015,High
+239,Benue,Content Writing,Entrepreneurship Opportunities,Youth,2013,Low
+240,Edo,Catering and Hospitality,Entrepreneurship Opportunities,Artisans,2013,High
+241,Cross River,Cybersecurity,Technological Advancement,Artisans,2011,High
+242,Delta,Graphic Design,Global Trends,Graduates,2012,Medium
+243,Abuja,Digital Marketing,Youth Empowerment,Graduates,2018,High
+244,Lagos,Plumbing,Technological Advancement,Entrepreneurs,2011,Low
+245,Lagos,Mobile App Development,Government Initiatives,Artisans,2010,High
+246,Anambra,Mobile App Development,High Unemployment,Graduates,2016,Low
+247,Oyo,Welding,Youth Empowerment,Women,2020,Medium
+248,Borno,Mobile App Development,Government Initiatives,Entrepreneurs,2016,Medium
+249,Rivers,Welding,Global Trends,Artisans,2014,Medium
+250,Borno,Tailoring,Government Initiatives,Artisans,2022,High
+251,Rivers,Mobile App Development,Youth Empowerment,Youth,2014,Medium
+252,Kaduna,Web Development,Market Demand,Graduates,2011,Low
+253,Lagos,Welding,Youth Empowerment,Artisans,2022,Medium
+254,Delta,Hairdressing,Market Demand,Graduates,2014,Medium
+255,Abuja,Plumbing,High Unemployment,Entrepreneurs,2017,High
+256,Cross River,Web Development,Government Initiatives,Youth,2013,High
+257,Anambra,Graphic Design,Market Demand,Artisans,2018,Medium
+258,Edo,Cybersecurity,Entrepreneurship Opportunities,Artisans,2018,High
+259,Edo,Agribusiness,Market Demand,Artisans,2018,High
+260,Cross River,Agribusiness,Youth Empowerment,Artisans,2018,Medium
+261,Enugu,Web Development,Entrepreneurship Opportunities,Women,2013,Low
+262,Kaduna,Catering and Hospitality,Market Demand,Graduates,2022,Low
+263,Kano,Data Analysis,Market Demand,Women,2014,Medium
+264,Kano,Carpentry,High Unemployment,Entrepreneurs,2022,High
+265,Anambra,Plumbing,Global Trends,Women,2017,High
+266,Delta,Plumbing,Government Initiatives,Artisans,2011,Low
+267,Kaduna,Hairdressing,Technological Advancement,Entrepreneurs,2022,High
+268,Enugu,Graphic Design,Global Trends,Artisans,2016,Low
+269,Kano,Photography,High Unemployment,Entrepreneurs,2020,Low
+270,Benue,Tailoring,High Unemployment,Youth,2016,Low
+271,Edo,Catering and Hospitality,Market Demand,Entrepreneurs,2022,Low
+272,Anambra,Tailoring,Market Demand,Artisans,2018,Low
+273,Plateau,Web Development,Government Initiatives,Graduates,2011,High
+274,Anambra,Content Writing,Youth Empowerment,Graduates,2019,Low
+275,Borno,Agribusiness,Global Trends,Artisans,2016,Low
+276,Rivers,Web Development,Technological Advancement,Women,2022,High
+277,Benue,Tailoring,Government Initiatives,Artisans,2020,High
+278,Oyo,Tailoring,Technological Advancement,Graduates,2015,High
+279,Plateau,Agribusiness,Youth Empowerment,Women,2014,Low
+280,Enugu,Plumbing,Youth Empowerment,Artisans,2010,Medium
+281,Delta,Graphic Design,Market Demand,Graduates,2019,Medium
+282,Benue,Data Analysis,Entrepreneurship Opportunities,Artisans,2013,Medium
+283,Cross River,Agribusiness,Entrepreneurship Opportunities,Artisans,2014,High
+284,Oyo,Photography,Entrepreneurship Opportunities,Artisans,2010,High
+285,Ogun,Catering and Hospitality,High Unemployment,Graduates,2016,Low
+286,Rivers,Data Analysis,Market Demand,Women,2014,Medium
+287,Benue,Cybersecurity,Global Trends,Graduates,2019,Medium
+288,Anambra,Catering and Hospitality,Global Trends,Youth,2018,Medium
+289,Delta,Plumbing,Global Trends,Youth,2010,Medium
+290,Cross River,Catering and Hospitality,Global Trends,Youth,2022,High
+291,Enugu,Tailoring,Youth Empowerment,Women,2021,Low
+292,Abuja,Content Writing,Government Initiatives,Entrepreneurs,2019,High
+293,Ogun,Web Development,High Unemployment,Youth,2020,Medium
+294,Ogun,Content Writing,Market Demand,Entrepreneurs,2021,Low
+295,Rivers,Digital Marketing,Government Initiatives,Graduates,2011,Medium
+296,Edo,Welding,Entrepreneurship Opportunities,Women,2011,Low
+297,Plateau,Content Writing,High Unemployment,Entrepreneurs,2015,Medium
+298,Cross River,Agribusiness,High Unemployment,Artisans,2012,Medium
+299,Cross River,Agribusiness,Entrepreneurship Opportunities,Women,2021,High
+300,Anambra,Catering and Hospitality,High Unemployment,Artisans,2020,High
+301,Enugu,Carpentry,Government Initiatives,Graduates,2012,Low
+302,Rivers,Web Development,Technological Advancement,Youth,2019,High
+303,Plateau,Welding,Entrepreneurship Opportunities,Entrepreneurs,2012,Low
+304,Delta,Welding,Government Initiatives,Graduates,2018,Medium
+305,Plateau,Mobile App Development,Global Trends,Graduates,2012,Low
+306,Cross River,Welding,Youth Empowerment,Graduates,2016,High
+307,Rivers,Digital Marketing,Youth Empowerment,Graduates,2018,Medium
+308,Delta,Web Development,Government Initiatives,Youth,2015,High
+309,Kaduna,Content Writing,Entrepreneurship Opportunities,Entrepreneurs,2021,Low
+310,Anambra,Photography,Entrepreneurship Opportunities,Women,2018,Medium
+311,Lagos,Agribusiness,High Unemployment,Artisans,2014,Medium
+312,Cross River,Hairdressing,Global Trends,Youth,2020,High
+313,Abuja,Catering and Hospitality,Entrepreneurship Opportunities,Women,2023,Low
+314,Delta,Welding,Technological Advancement,Artisans,2013,High
+315,Cross River,Mobile App Development,Government Initiatives,Youth,2016,High
+316,Oyo,Graphic Design,High Unemployment,Women,2021,Low
+317,Lagos,Graphic Design,High Unemployment,Women,2015,Medium
+318,Plateau,Welding,Entrepreneurship Opportunities,Artisans,2021,Medium
+319,Plateau,Cybersecurity,Technological Advancement,Entrepreneurs,2016,Low
+320,Rivers,Catering and Hospitality,Market Demand,Artisans,2020,Low
+321,Benue,Hairdressing,Youth Empowerment,Youth,2017,Low
+322,Abuja,Plumbing,Youth Empowerment,Women,2016,Medium
+323,Anambra,Photography,Global Trends,Entrepreneurs,2018,Low
+324,Ogun,Welding,Government Initiatives,Women,2011,Medium
+325,Cross River,Catering and Hospitality,Technological Advancement,Artisans,2018,Low
+326,Kaduna,Data Analysis,Youth Empowerment,Graduates,2018,High
+327,Ogun,Graphic Design,Government Initiatives,Entrepreneurs,2016,High
+328,Abuja,Carpentry,Global Trends,Women,2023,Medium
+329,Benue,Digital Marketing,Market Demand,Entrepreneurs,2012,High
+330,Edo,Carpentry,Government Initiatives,Women,2013,Medium
+331,Edo,Agribusiness,Government Initiatives,Youth,2019,High
+332,Enugu,Photography,Technological Advancement,Youth,2012,High
+333,Edo,Tailoring,High Unemployment,Women,2010,Medium
+334,Edo,Graphic Design,High Unemployment,Youth,2014,High
+335,Abuja,Mobile App Development,Market Demand,Women,2020,Medium
+336,Oyo,Content Writing,Global Trends,Entrepreneurs,2020,Medium
+337,Benue,Welding,Youth Empowerment,Youth,2015,Low
+338,Abuja,Plumbing,Global Trends,Youth,2013,Low
+339,Kano,Plumbing,Entrepreneurship Opportunities,Women,2018,High
+340,Kano,Catering and Hospitality,Government Initiatives,Graduates,2017,Low
+341,Lagos,Agribusiness,Global Trends,Youth,2013,High
+342,Abuja,Web Development,Youth Empowerment,Women,2022,High
+343,Kaduna,Graphic Design,Global Trends,Graduates,2011,Low
+344,Benue,Tailoring,Entrepreneurship Opportunities,Entrepreneurs,2015,High
+345,Lagos,Welding,Technological Advancement,Entrepreneurs,2014,High
+346,Delta,Plumbing,Market Demand,Entrepreneurs,2022,Low
+347,Abuja,Data Analysis,Technological Advancement,Entrepreneurs,2012,Medium
+348,Ogun,Data Analysis,Technological Advancement,Youth,2019,Medium
+349,Abuja,Catering and Hospitality,Entrepreneurship Opportunities,Women,2016,Low
+350,Anambra,Tailoring,Technological Advancement,Graduates,2010,Low
+351,Kano,Web Development,Global Trends,Entrepreneurs,2012,Medium
+352,Anambra,Welding,High Unemployment,Artisans,2022,High
+353,Enugu,Tailoring,Technological Advancement,Entrepreneurs,2018,Low
+354,Benue,Cybersecurity,Global Trends,Artisans,2016,Medium
+355,Oyo,Data Analysis,High Unemployment,Youth,2013,Low
+356,Edo,Data Analysis,Entrepreneurship Opportunities,Graduates,2022,Medium
+357,Benue,Cybersecurity,Global Trends,Graduates,2011,Medium
+358,Enugu,Photography,Market Demand,Women,2014,Medium
+359,Lagos,Graphic Design,Entrepreneurship Opportunities,Graduates,2011,Low
+360,Kaduna,Web Development,Youth Empowerment,Artisans,2010,Low
+361,Cross River,Tailoring,Entrepreneurship Opportunities,Graduates,2014,Low
+362,Enugu,Hairdressing,Entrepreneurship Opportunities,Graduates,2022,Medium
+363,Benue,Cybersecurity,Youth Empowerment,Artisans,2022,Medium
+364,Borno,Agribusiness,High Unemployment,Youth,2011,Low
+365,Anambra,Web Development,Market Demand,Women,2021,Low
+366,Kano,Web Development,Market Demand,Women,2023,Medium
+367,Abuja,Plumbing,Technological Advancement,Women,2013,Medium
+368,Cross River,Welding,Government Initiatives,Graduates,2016,Medium
+369,Cross River,Carpentry,Youth Empowerment,Women,2016,High
+370,Lagos,Carpentry,Youth Empowerment,Graduates,2015,Medium
+371,Kano,Welding,Market Demand,Artisans,2017,Medium
+372,Lagos,Digital Marketing,Global Trends,Women,2021,Low
+373,Rivers,Tailoring,Entrepreneurship Opportunities,Graduates,2014,Low
+374,Borno,Plumbing,Technological Advancement,Women,2016,Medium
+375,Enugu,Photography,Technological Advancement,Artisans,2010,Medium
+376,Anambra,Content Writing,Government Initiatives,Women,2022,High
+377,Plateau,Mobile App Development,Market Demand,Women,2017,Medium
+378,Plateau,Content Writing,High Unemployment,Graduates,2019,High
+379,Plateau,Web Development,Entrepreneurship Opportunities,Artisans,2016,High
+380,Anambra,Agribusiness,Global Trends,Graduates,2022,Medium
+381,Lagos,Agribusiness,High Unemployment,Entrepreneurs,2021,High
+382,Anambra,Data Analysis,High Unemployment,Entrepreneurs,2014,High
+383,Ogun,Content Writing,High Unemployment,Graduates,2022,Low
+384,Benue,Tailoring,Government Initiatives,Women,2013,Low
+385,Abuja,Data Analysis,Youth Empowerment,Youth,2023,Low
+386,Delta,Hairdressing,Technological Advancement,Women,2023,High
+387,Abuja,Content Writing,Technological Advancement,Artisans,2011,Low
+388,Borno,Catering and Hospitality,Global Trends,Graduates,2016,High
+389,Enugu,Photography,Government Initiatives,Women,2012,Medium
+390,Kano,Web Development,Entrepreneurship Opportunities,Youth,2019,High
+391,Ogun,Digital Marketing,Youth Empowerment,Women,2023,High
+392,Cross River,Web Development,Technological Advancement,Women,2010,Medium
+393,Borno,Catering and Hospitality,Entrepreneurship Opportunities,Graduates,2011,High
+394,Anambra,Cybersecurity,Technological Advancement,Graduates,2022,Medium
+395,Benue,Tailoring,High Unemployment,Graduates,2018,Medium
+396,Enugu,Cybersecurity,Global Trends,Youth,2023,Low
+397,Delta,Carpentry,Entrepreneurship Opportunities,Youth,2020,Low
+398,Ogun,Content Writing,Technological Advancement,Youth,2023,Medium
+399,Enugu,Hairdressing,Technological Advancement,Women,2013,High
+400,Kaduna,Digital Marketing,Global Trends,Women,2022,Low
+401,Rivers,Plumbing,Global Trends,Youth,2015,Medium
+402,Abuja,Agribusiness,Government Initiatives,Graduates,2010,High
+403,Edo,Content Writing,Entrepreneurship Opportunities,Graduates,2016,Low
+404,Lagos,Photography,Market Demand,Women,2012,Low
+405,Delta,Cybersecurity,Government Initiatives,Youth,2012,Low
+406,Oyo,Tailoring,Youth Empowerment,Graduates,2010,High
+407,Abuja,Catering and Hospitality,Government Initiatives,Entrepreneurs,2010,High
+408,Plateau,Plumbing,Entrepreneurship Opportunities,Women,2021,Medium
+409,Anambra,Agribusiness,Technological Advancement,Entrepreneurs,2018,Medium
+410,Edo,Carpentry,Government Initiatives,Graduates,2019,Low
+411,Delta,Content Writing,Market Demand,Entrepreneurs,2017,Medium
+412,Anambra,Mobile App Development,High Unemployment,Entrepreneurs,2011,High
+413,Edo,Welding,Technological Advancement,Graduates,2013,High
+414,Abuja,Mobile App Development,Technological Advancement,Women,2012,Low
+415,Delta,Content Writing,Entrepreneurship Opportunities,Women,2011,Low
+416,Cross River,Content Writing,High Unemployment,Graduates,2021,Medium
+417,Edo,Tailoring,Youth Empowerment,Artisans,2016,Low
+418,Benue,Plumbing,High Unemployment,Women,2011,Low
+419,Borno,Web Development,Youth Empowerment,Artisans,2011,Medium
+420,Plateau,Tailoring,Government Initiatives,Women,2012,Low
+421,Lagos,Welding,Technological Advancement,Youth,2010,Medium
+422,Cross River,Photography,Youth Empowerment,Artisans,2010,High
+423,Oyo,Cybersecurity,Market Demand,Artisans,2018,Medium
+424,Anambra,Graphic Design,Youth Empowerment,Youth,2012,Low
+425,Borno,Plumbing,Market Demand,Entrepreneurs,2016,Low
+426,Abuja,Hairdressing,Global Trends,Graduates,2018,High
+427,Anambra,Content Writing,Technological Advancement,Artisans,2012,High
+428,Enugu,Hairdressing,Youth Empowerment,Graduates,2021,Low
+429,Ogun,Photography,Youth Empowerment,Entrepreneurs,2019,Medium
+430,Enugu,Carpentry,Market Demand,Artisans,2012,Low
+431,Ogun,Hairdressing,High Unemployment,Entrepreneurs,2012,High
+432,Delta,Content Writing,Government Initiatives,Women,2018,High
+433,Delta,Catering and Hospitality,Government Initiatives,Youth,2018,High
+434,Anambra,Data Analysis,Technological Advancement,Youth,2014,Medium
+435,Rivers,Digital Marketing,Youth Empowerment,Artisans,2011,Medium
+436,Borno,Web Development,Entrepreneurship Opportunities,Graduates,2021,Low
+437,Borno,Data Analysis,Technological Advancement,Graduates,2012,Medium
+438,Edo,Carpentry,Youth Empowerment,Youth,2017,Medium
+439,Borno,Carpentry,Market Demand,Youth,2019,Low
+440,Benue,Agribusiness,Youth Empowerment,Entrepreneurs,2022,High
+441,Cross River,Hairdressing,Government Initiatives,Entrepreneurs,2023,High
+442,Oyo,Tailoring,Government Initiatives,Women,2013,Medium
+443,Cross River,Plumbing,Technological Advancement,Graduates,2020,Low
+444,Plateau,Hairdressing,Technological Advancement,Artisans,2011,Medium
+445,Kaduna,Cybersecurity,Global Trends,Graduates,2020,Medium
+446,Cross River,Plumbing,Entrepreneurship Opportunities,Artisans,2017,High
+447,Ogun,Data Analysis,Government Initiatives,Women,2014,Low
+448,Abuja,Graphic Design,High Unemployment,Graduates,2021,Low
+449,Lagos,Plumbing,Global Trends,Women,2023,High
+450,Oyo,Data Analysis,Technological Advancement,Women,2016,Medium
+451,Benue,Web Development,Global Trends,Artisans,2017,Low
+452,Lagos,Data Analysis,High Unemployment,Women,2013,High
+453,Kaduna,Agribusiness,Entrepreneurship Opportunities,Entrepreneurs,2021,Low
+454,Oyo,Carpentry,Youth Empowerment,Graduates,2020,Medium
+455,Delta,Data Analysis,Entrepreneurship Opportunities,Artisans,2011,Medium
+456,Lagos,Agribusiness,Market Demand,Graduates,2012,Medium
+457,Lagos,Mobile App Development,High Unemployment,Artisans,2020,Low
+458,Lagos,Data Analysis,Global Trends,Women,2011,High
+459,Ogun,Carpentry,Global Trends,Graduates,2015,High
+460,Benue,Agribusiness,Youth Empowerment,Women,2012,Medium
+461,Enugu,Mobile App Development,Technological Advancement,Graduates,2013,Medium
+462,Borno,Carpentry,Youth Empowerment,Women,2021,Low
+463,Benue,Agribusiness,Government Initiatives,Women,2019,Low
+464,Cross River,Agribusiness,Entrepreneurship Opportunities,Graduates,2014,Low
+465,Ogun,Agribusiness,Technological Advancement,Youth,2018,Medium
+466,Plateau,Mobile App Development,Global Trends,Graduates,2011,Medium
+467,Plateau,Agribusiness,High Unemployment,Entrepreneurs,2013,Low
+468,Abuja,Agribusiness,High Unemployment,Graduates,2012,Medium
+469,Cross River,Digital Marketing,Technological Advancement,Women,2010,Medium
+470,Ogun,Data Analysis,Global Trends,Entrepreneurs,2016,High
+471,Lagos,Web Development,Entrepreneurship Opportunities,Artisans,2022,Low
+472,Borno,Photography,Market Demand,Women,2020,High
+473,Ogun,Hairdressing,Market Demand,Women,2011,Low
+474,Lagos,Digital Marketing,Global Trends,Entrepreneurs,2016,Medium
+475,Anambra,Photography,High Unemployment,Youth,2023,Medium
+476,Borno,Digital Marketing,High Unemployment,Artisans,2012,Medium
+477,Oyo,Graphic Design,Youth Empowerment,Graduates,2012,High
+478,Edo,Data Analysis,Government Initiatives,Entrepreneurs,2021,Low
+479,Edo,Tailoring,Entrepreneurship Opportunities,Women,2023,Medium
+480,Kano,Carpentry,Youth Empowerment,Entrepreneurs,2017,High
+481,Enugu,Photography,Youth Empowerment,Entrepreneurs,2012,Low
+482,Delta,Content Writing,Market Demand,Graduates,2013,Low
+483,Plateau,Content Writing,Global Trends,Artisans,2023,Low
+484,Oyo,Welding,High Unemployment,Women,2023,Low
+485,Cross River,Agribusiness,Youth Empowerment,Graduates,2014,High
+486,Plateau,Plumbing,Entrepreneurship Opportunities,Youth,2010,Low
+487,Abuja,Photography,Entrepreneurship Opportunities,Artisans,2023,Medium
+488,Abuja,Content Writing,Government Initiatives,Women,2017,High
+489,Abuja,Hairdressing,High Unemployment,Youth,2013,High
+490,Plateau,Photography,Technological Advancement,Youth,2016,Medium
+491,Kano,Photography,Government Initiatives,Entrepreneurs,2017,High
+492,Kaduna,Content Writing,Technological Advancement,Entrepreneurs,2013,High
+493,Rivers,Welding,Youth Empowerment,Women,2016,Medium
+494,Plateau,Welding,Youth Empowerment,Entrepreneurs,2011,Medium
+495,Edo,Photography,High Unemployment,Graduates,2012,High
+496,Delta,Data Analysis,Government Initiatives,Women,2016,High
+497,Ogun,Agribusiness,High Unemployment,Artisans,2010,High
+498,Borno,Data Analysis,Global Trends,Women,2011,Low
+499,Plateau,Web Development,Youth Empowerment,Artisans,2018,Medium
+500,Rivers,Content Writing,High Unemployment,Graduates,2014,Medium
+501,Rivers,Digital Marketing,Government Initiatives,Entrepreneurs,2023,High
+502,Borno,Data Analysis,Government Initiatives,Entrepreneurs,2020,Medium
+503,Benue,Hairdressing,Technological Advancement,Artisans,2022,High
+504,Cross River,Cybersecurity,Government Initiatives,Youth,2015,Low
+505,Enugu,Carpentry,Technological Advancement,Youth,2023,Medium
+506,Enugu,Hairdressing,Market Demand,Graduates,2017,Medium
+507,Lagos,Catering and Hospitality,Government Initiatives,Women,2016,Low
+508,Kaduna,Cybersecurity,Market Demand,Artisans,2018,Low
+509,Anambra,Cybersecurity,Market Demand,Entrepreneurs,2014,Medium
+510,Anambra,Web Development,Government Initiatives,Women,2020,High
+511,Ogun,Photography,Government Initiatives,Artisans,2017,Medium
+512,Oyo,Data Analysis,Market Demand,Artisans,2010,Medium
+513,Enugu,Mobile App Development,Market Demand,Entrepreneurs,2021,High
+514,Ogun,Carpentry,Technological Advancement,Entrepreneurs,2015,Low
+515,Enugu,Graphic Design,Technological Advancement,Artisans,2012,Medium
+516,Anambra,Hairdressing,Global Trends,Women,2023,Low
+517,Edo,Welding,Entrepreneurship Opportunities,Youth,2015,Medium
+518,Oyo,Tailoring,High Unemployment,Artisans,2023,Low
+519,Cross River,Catering and Hospitality,Entrepreneurship Opportunities,Women,2014,High
+520,Kaduna,Web Development,Technological Advancement,Artisans,2013,Low
+521,Borno,Cybersecurity,Government Initiatives,Entrepreneurs,2010,High
+522,Delta,Agribusiness,Market Demand,Youth,2013,Medium
+523,Ogun,Content Writing,Technological Advancement,Entrepreneurs,2019,Low
+524,Rivers,Content Writing,Entrepreneurship Opportunities,Youth,2016,Medium
+525,Ogun,Cybersecurity,Entrepreneurship Opportunities,Youth,2010,Low
+526,Delta,Mobile App Development,Entrepreneurship Opportunities,Women,2010,Medium
+527,Oyo,Web Development,Technological Advancement,Entrepreneurs,2020,High
+528,Benue,Digital Marketing,Global Trends,Youth,2022,Low
+529,Enugu,Digital Marketing,Entrepreneurship Opportunities,Artisans,2017,High
+530,Delta,Mobile App Development,Global Trends,Entrepreneurs,2011,Medium
+531,Oyo,Photography,Market Demand,Artisans,2019,High
+532,Borno,Graphic Design,Market Demand,Youth,2012,Medium
+533,Borno,Plumbing,Entrepreneurship Opportunities,Graduates,2023,Low
+534,Kano,Photography,Government Initiatives,Artisans,2023,Medium
+535,Borno,Data Analysis,Market Demand,Women,2010,Low
+536,Ogun,Cybersecurity,High Unemployment,Women,2013,Low
+537,Plateau,Data Analysis,Entrepreneurship Opportunities,Artisans,2011,High
+538,Enugu,Tailoring,Market Demand,Youth,2021,High
+539,Benue,Hairdressing,Entrepreneurship Opportunities,Women,2016,High
+540,Anambra,Photography,Market Demand,Artisans,2010,High
+541,Benue,Plumbing,High Unemployment,Entrepreneurs,2021,Medium
+542,Benue,Mobile App Development,Technological Advancement,Graduates,2010,High
+543,Rivers,Mobile App Development,Market Demand,Artisans,2018,High
+544,Ogun,Graphic Design,Youth Empowerment,Graduates,2011,Low
+545,Borno,Photography,Market Demand,Graduates,2016,Medium
+546,Lagos,Tailoring,Entrepreneurship Opportunities,Artisans,2014,High
+547,Enugu,Graphic Design,Technological Advancement,Graduates,2017,Medium
+548,Kaduna,Catering and Hospitality,High Unemployment,Women,2019,High
+549,Plateau,Content Writing,Youth Empowerment,Graduates,2011,Low
+550,Kano,Hairdressing,Entrepreneurship Opportunities,Women,2023,Low
+551,Plateau,Carpentry,Technological Advancement,Women,2013,Medium
+552,Borno,Hairdressing,Youth Empowerment,Women,2023,Medium
+553,Abuja,Web Development,High Unemployment,Youth,2020,Low
+554,Kaduna,Plumbing,Global Trends,Graduates,2019,High
+555,Delta,Graphic Design,Technological Advancement,Graduates,2012,Medium
+556,Abuja,Welding,Market Demand,Entrepreneurs,2012,High
+557,Benue,Carpentry,High Unemployment,Entrepreneurs,2011,High
+558,Benue,Agribusiness,Government Initiatives,Graduates,2012,Low
+559,Benue,Tailoring,Government Initiatives,Entrepreneurs,2018,High
+560,Kaduna,Plumbing,Youth Empowerment,Artisans,2010,Medium
+561,Ogun,Welding,Technological Advancement,Entrepreneurs,2022,High
+562,Plateau,Digital Marketing,Entrepreneurship Opportunities,Youth,2019,Medium
+563,Anambra,Plumbing,Youth Empowerment,Youth,2018,Medium
+564,Abuja,Agribusiness,Government Initiatives,Youth,2021,High
+565,Plateau,Hairdressing,Market Demand,Graduates,2020,Low
+566,Edo,Welding,High Unemployment,Artisans,2015,Low
+567,Kaduna,Digital Marketing,High Unemployment,Entrepreneurs,2014,Low
+568,Kaduna,Digital Marketing,Market Demand,Women,2019,Low
+569,Edo,Hairdressing,Youth Empowerment,Artisans,2013,Low
+570,Anambra,Hairdressing,Technological Advancement,Youth,2020,Medium
+571,Borno,Graphic Design,Market Demand,Artisans,2021,Medium
+572,Lagos,Catering and Hospitality,Government Initiatives,Youth,2023,High
+573,Lagos,Content Writing,Entrepreneurship Opportunities,Graduates,2021,Medium
+574,Kaduna,Data Analysis,Youth Empowerment,Entrepreneurs,2014,Low
+575,Abuja,Data Analysis,Technological Advancement,Artisans,2019,Low
+576,Kaduna,Cybersecurity,Technological Advancement,Graduates,2017,High
+577,Oyo,Cybersecurity,Technological Advancement,Artisans,2011,High
+578,Rivers,Hairdressing,Government Initiatives,Youth,2020,Medium
+579,Plateau,Tailoring,Technological Advancement,Graduates,2015,High
+580,Rivers,Data Analysis,High Unemployment,Artisans,2014,Low
+581,Delta,Digital Marketing,Youth Empowerment,Artisans,2012,Medium
+582,Anambra,Carpentry,Technological Advancement,Youth,2012,Low
+583,Enugu,Agribusiness,Technological Advancement,Women,2021,High
+584,Lagos,Web Development,Youth Empowerment,Youth,2021,Medium
+585,Kaduna,Tailoring,Government Initiatives,Women,2019,High
+586,Ogun,Catering and Hospitality,Market Demand,Youth,2010,Medium
+587,Oyo,Carpentry,High Unemployment,Artisans,2017,Medium
+588,Oyo,Digital Marketing,Market Demand,Women,2016,Low
+589,Oyo,Mobile App Development,High Unemployment,Youth,2022,Medium
+590,Edo,Hairdressing,Entrepreneurship Opportunities,Entrepreneurs,2022,High
+591,Abuja,Cybersecurity,Entrepreneurship Opportunities,Entrepreneurs,2023,Low
+592,Enugu,Photography,Market Demand,Artisans,2022,Medium
+593,Abuja,Data Analysis,High Unemployment,Graduates,2013,High
+594,Lagos,Data Analysis,Global Trends,Graduates,2014,Low
+595,Kaduna,Welding,Global Trends,Youth,2019,Low
+596,Benue,Hairdressing,Government Initiatives,Artisans,2012,Low
+597,Borno,Agribusiness,Global Trends,Graduates,2010,High
+598,Delta,Welding,Technological Advancement,Graduates,2020,High
+599,Plateau,Cybersecurity,Global Trends,Women,2019,Medium
+600,Plateau,Catering and Hospitality,Entrepreneurship Opportunities,Youth,2013,Low
+601,Abuja,Mobile App Development,Technological Advancement,Youth,2020,High
+602,Cross River,Tailoring,Entrepreneurship Opportunities,Graduates,2023,Low
+603,Enugu,Cybersecurity,Technological Advancement,Youth,2010,Medium
+604,Plateau,Catering and Hospitality,High Unemployment,Artisans,2022,Medium
+605,Borno,Mobile App Development,High Unemployment,Entrepreneurs,2018,Medium
+606,Enugu,Welding,Entrepreneurship Opportunities,Graduates,2015,High
+607,Ogun,Carpentry,Entrepreneurship Opportunities,Women,2019,Medium
+608,Lagos,Agribusiness,Entrepreneurship Opportunities,Women,2018,Low
+609,Edo,Hairdressing,Government Initiatives,Youth,2010,High
+610,Plateau,Photography,Technological Advancement,Youth,2020,Medium
+611,Kano,Welding,Entrepreneurship Opportunities,Women,2013,High
+612,Kaduna,Agribusiness,Youth Empowerment,Women,2014,Low
+613,Plateau,Agribusiness,Global Trends,Artisans,2016,Medium
+614,Rivers,Tailoring,Technological Advancement,Artisans,2010,Low
+615,Plateau,Graphic Design,Global Trends,Entrepreneurs,2010,Medium
+616,Borno,Hairdressing,Technological Advancement,Women,2018,High
+617,Anambra,Data Analysis,Market Demand,Artisans,2016,Low
+618,Delta,Plumbing,Youth Empowerment,Entrepreneurs,2021,Medium
+619,Rivers,Plumbing,Technological Advancement,Artisans,2011,Medium
+620,Lagos,Mobile App Development,High Unemployment,Youth,2015,High
+621,Abuja,Welding,Entrepreneurship Opportunities,Women,2021,Low
+622,Cross River,Digital Marketing,Youth Empowerment,Women,2016,High
+623,Borno,Plumbing,Global Trends,Artisans,2021,High
+624,Edo,Agribusiness,Government Initiatives,Entrepreneurs,2022,Medium
+625,Kaduna,Photography,Technological Advancement,Women,2022,Medium
+626,Oyo,Carpentry,High Unemployment,Artisans,2013,Medium
+627,Edo,Cybersecurity,Technological Advancement,Youth,2011,Low
+628,Anambra,Mobile App Development,Entrepreneurship Opportunities,Youth,2010,Medium
+629,Borno,Hairdressing,Entrepreneurship Opportunities,Youth,2016,Medium
+630,Kano,Photography,Government Initiatives,Youth,2013,Medium
+631,Anambra,Mobile App Development,Market Demand,Women,2019,High
+632,Abuja,Welding,Global Trends,Graduates,2019,High
+633,Delta,Agribusiness,High Unemployment,Entrepreneurs,2020,Low
+634,Kano,Agribusiness,High Unemployment,Women,2021,Medium
+635,Edo,Tailoring,High Unemployment,Youth,2012,Low
+636,Delta,Hairdressing,Entrepreneurship Opportunities,Graduates,2016,Medium
+637,Abuja,Graphic Design,Market Demand,Entrepreneurs,2021,High
+638,Enugu,Content Writing,Youth Empowerment,Graduates,2016,Low
+639,Kaduna,Web Development,Global Trends,Women,2021,High
+640,Benue,Web Development,Youth Empowerment,Youth,2019,Medium
+641,Ogun,Content Writing,High Unemployment,Graduates,2014,Medium
+642,Lagos,Data Analysis,Market Demand,Women,2021,Low
+643,Rivers,Tailoring,Global Trends,Youth,2022,Medium
+644,Delta,Digital Marketing,Government Initiatives,Youth,2015,Low
+645,Enugu,Digital Marketing,Government Initiatives,Youth,2016,Low
+646,Lagos,Welding,Youth Empowerment,Artisans,2012,High
+647,Kano,Cybersecurity,Youth Empowerment,Entrepreneurs,2020,High
+648,Kaduna,Agribusiness,Market Demand,Women,2011,High
+649,Benue,Photography,Government Initiatives,Entrepreneurs,2012,Low
+650,Kano,Tailoring,Technological Advancement,Graduates,2013,High
+651,Kano,Tailoring,Government Initiatives,Women,2020,Low
+652,Ogun,Digital Marketing,Entrepreneurship Opportunities,Youth,2012,Medium
+653,Ogun,Graphic Design,Entrepreneurship Opportunities,Youth,2014,Low
+654,Oyo,Photography,Entrepreneurship Opportunities,Artisans,2016,Low
+655,Cross River,Catering and Hospitality,Technological Advancement,Artisans,2012,High
+656,Enugu,Photography,Youth Empowerment,Youth,2011,Low
+657,Plateau,Digital Marketing,High Unemployment,Artisans,2011,Medium
+658,Oyo,Web Development,Government Initiatives,Artisans,2020,Medium
+659,Ogun,Web Development,Youth Empowerment,Graduates,2017,Low
+660,Rivers,Web Development,Market Demand,Entrepreneurs,2015,Low
+661,Delta,Agribusiness,Youth Empowerment,Youth,2014,Low
+662,Abuja,Mobile App Development,Technological Advancement,Artisans,2023,High
+663,Enugu,Welding,Market Demand,Women,2018,High
+664,Lagos,Graphic Design,Government Initiatives,Women,2010,Medium
+665,Borno,Tailoring,Market Demand,Women,2023,High
+666,Benue,Graphic Design,Entrepreneurship Opportunities,Women,2021,Medium
+667,Kaduna,Mobile App Development,Government Initiatives,Artisans,2019,Low
+668,Benue,Plumbing,Global Trends,Artisans,2015,High
+669,Abuja,Tailoring,Global Trends,Entrepreneurs,2023,Medium
+670,Enugu,Content Writing,Technological Advancement,Artisans,2012,Low
+671,Abuja,Agribusiness,Entrepreneurship Opportunities,Graduates,2018,Low
+672,Edo,Data Analysis,Government Initiatives,Women,2022,High
+673,Oyo,Mobile App Development,Government Initiatives,Graduates,2015,High
+674,Plateau,Photography,High Unemployment,Women,2019,Low
+675,Rivers,Photography,Global Trends,Artisans,2019,Low
+676,Ogun,Agribusiness,High Unemployment,Women,2017,High
+677,Kano,Hairdressing,High Unemployment,Graduates,2023,High
+678,Lagos,Digital Marketing,Entrepreneurship Opportunities,Graduates,2022,Medium
+679,Anambra,Agribusiness,Government Initiatives,Youth,2023,Low
+680,Edo,Digital Marketing,High Unemployment,Entrepreneurs,2011,Low
+681,Cross River,Carpentry,Government Initiatives,Entrepreneurs,2023,Medium
+682,Rivers,Content Writing,Entrepreneurship Opportunities,Artisans,2011,Medium
+683,Abuja,Catering and Hospitality,Entrepreneurship Opportunities,Artisans,2022,Low
+684,Plateau,Agribusiness,Entrepreneurship Opportunities,Youth,2014,Medium
+685,Benue,Agribusiness,Entrepreneurship Opportunities,Women,2020,High
+686,Rivers,Graphic Design,Youth Empowerment,Women,2015,Low
+687,Plateau,Digital Marketing,Global Trends,Entrepreneurs,2011,Low
+688,Enugu,Catering and Hospitality,Entrepreneurship Opportunities,Women,2015,Medium
+689,Benue,Mobile App Development,Entrepreneurship Opportunities,Artisans,2017,Low
+690,Borno,Plumbing,Entrepreneurship Opportunities,Artisans,2014,Medium
+691,Borno,Agribusiness,Market Demand,Youth,2015,High
+692,Kano,Cybersecurity,Global Trends,Youth,2015,Medium
+693,Abuja,Photography,Market Demand,Graduates,2018,Medium
+694,Borno,Photography,Youth Empowerment,Artisans,2016,Medium
+695,Abuja,Tailoring,Technological Advancement,Women,2010,Medium
+696,Delta,Digital Marketing,High Unemployment,Artisans,2020,Medium
+697,Oyo,Hairdressing,Global Trends,Women,2014,Medium
+698,Edo,Agribusiness,Global Trends,Women,2017,Low
+699,Abuja,Graphic Design,Youth Empowerment,Artisans,2023,Medium
+700,Enugu,Hairdressing,Youth Empowerment,Graduates,2010,Medium
+701,Edo,Welding,Market Demand,Entrepreneurs,2016,High
+702,Plateau,Carpentry,Technological Advancement,Graduates,2015,Low
+703,Delta,Mobile App Development,Youth Empowerment,Youth,2010,Low
+704,Kano,Tailoring,Entrepreneurship Opportunities,Entrepreneurs,2022,High
+705,Oyo,Tailoring,Entrepreneurship Opportunities,Women,2016,High
+706,Anambra,Data Analysis,Technological Advancement,Artisans,2023,High
+707,Abuja,Digital Marketing,High Unemployment,Graduates,2014,Medium
+708,Oyo,Web Development,Government Initiatives,Youth,2010,High
+709,Anambra,Data Analysis,Youth Empowerment,Entrepreneurs,2014,High
+710,Delta,Agribusiness,Global Trends,Artisans,2018,Low
+711,Oyo,Hairdressing,Youth Empowerment,Graduates,2017,High
+712,Delta,Plumbing,Global Trends,Artisans,2016,Low
+713,Delta,Welding,Global Trends,Youth,2017,Low
+714,Benue,Agribusiness,Global Trends,Entrepreneurs,2016,High
+715,Abuja,Data Analysis,Market Demand,Entrepreneurs,2018,High
+716,Anambra,Tailoring,Global Trends,Youth,2014,Medium
+717,Abuja,Graphic Design,High Unemployment,Graduates,2011,Low
+718,Lagos,Graphic Design,Global Trends,Youth,2019,Medium
+719,Benue,Digital Marketing,Global Trends,Entrepreneurs,2018,Low
+720,Plateau,Web Development,Entrepreneurship Opportunities,Graduates,2013,High
+721,Abuja,Cybersecurity,High Unemployment,Artisans,2019,High
+722,Rivers,Content Writing,Entrepreneurship Opportunities,Youth,2017,Medium
+723,Kaduna,Cybersecurity,Youth Empowerment,Entrepreneurs,2012,Low
+724,Rivers,Carpentry,Technological Advancement,Youth,2018,Medium
+725,Lagos,Content Writing,Government Initiatives,Women,2020,Low
+726,Ogun,Hairdressing,Technological Advancement,Graduates,2012,High
+727,Abuja,Agribusiness,Youth Empowerment,Graduates,2020,High
+728,Kaduna,Mobile App Development,Youth Empowerment,Graduates,2020,Low
+729,Plateau,Carpentry,Market Demand,Women,2010,Medium
+730,Abuja,Web Development,High Unemployment,Graduates,2015,Medium
+731,Enugu,Tailoring,Technological Advancement,Entrepreneurs,2015,High
+732,Lagos,Catering and Hospitality,Entrepreneurship Opportunities,Youth,2014,High
+733,Edo,Tailoring,Entrepreneurship Opportunities,Artisans,2012,Medium
+734,Lagos,Web Development,Government Initiatives,Entrepreneurs,2012,Medium
+735,Borno,Photography,Entrepreneurship Opportunities,Graduates,2017,High
+736,Ogun,Content Writing,Government Initiatives,Entrepreneurs,2022,Low
+737,Kano,Catering and Hospitality,Entrepreneurship Opportunities,Women,2016,Low
+738,Rivers,Agribusiness,High Unemployment,Artisans,2014,Low
+739,Plateau,Digital Marketing,Government Initiatives,Graduates,2016,Low
+740,Abuja,Agribusiness,Technological Advancement,Graduates,2021,Medium
+741,Plateau,Hairdressing,High Unemployment,Artisans,2017,Medium
+742,Kaduna,Tailoring,Youth Empowerment,Women,2020,Low
+743,Anambra,Carpentry,Youth Empowerment,Women,2017,Low
+744,Kaduna,Tailoring,Government Initiatives,Entrepreneurs,2023,Low
+745,Kano,Digital Marketing,High Unemployment,Women,2023,Low
+746,Rivers,Photography,Market Demand,Women,2010,High
+747,Lagos,Carpentry,Technological Advancement,Graduates,2016,Low
+748,Edo,Hairdressing,Government Initiatives,Youth,2017,Medium
+749,Plateau,Hairdressing,High Unemployment,Youth,2010,Medium
+750,Cross River,Web Development,Government Initiatives,Women,2011,High
+751,Lagos,Welding,High Unemployment,Women,2019,Low
+752,Rivers,Photography,Government Initiatives,Entrepreneurs,2021,Low
+753,Cross River,Photography,High Unemployment,Women,2015,High
+754,Delta,Hairdressing,Global Trends,Graduates,2015,Low
+755,Anambra,Photography,Technological Advancement,Youth,2023,Low
+756,Kano,Plumbing,Youth Empowerment,Women,2015,Medium
+757,Edo,Mobile App Development,Global Trends,Artisans,2015,Low
+758,Rivers,Photography,Market Demand,Women,2018,Low
+759,Kano,Tailoring,Government Initiatives,Women,2017,Medium
+760,Rivers,Tailoring,Government Initiatives,Youth,2022,High
+761,Kaduna,Mobile App Development,High Unemployment,Graduates,2019,High
+762,Oyo,Cybersecurity,High Unemployment,Youth,2015,High
+763,Oyo,Hairdressing,Technological Advancement,Youth,2023,High
+764,Anambra,Data Analysis,Government Initiatives,Artisans,2023,Low
+765,Plateau,Cybersecurity,Global Trends,Women,2014,High
+766,Lagos,Hairdressing,Entrepreneurship Opportunities,Youth,2015,High
+767,Borno,Photography,High Unemployment,Youth,2020,Medium
+768,Ogun,Agribusiness,Technological Advancement,Artisans,2016,Medium
+769,Kaduna,Welding,Youth Empowerment,Women,2020,Low
+770,Borno,Plumbing,Entrepreneurship Opportunities,Entrepreneurs,2018,Medium
+771,Enugu,Digital Marketing,High Unemployment,Artisans,2019,Low
+772,Cross River,Cybersecurity,Youth Empowerment,Women,2023,Medium
+773,Lagos,Carpentry,Youth Empowerment,Graduates,2012,High
+774,Cross River,Plumbing,Youth Empowerment,Women,2014,Medium
+775,Borno,Catering and Hospitality,Technological Advancement,Women,2018,Low
+776,Delta,Digital Marketing,Entrepreneurship Opportunities,Graduates,2021,Low
+777,Lagos,Graphic Design,Entrepreneurship Opportunities,Artisans,2010,Low
+778,Borno,Welding,High Unemployment,Women,2010,High
+779,Plateau,Tailoring,Youth Empowerment,Entrepreneurs,2023,Low
+780,Rivers,Content Writing,Entrepreneurship Opportunities,Entrepreneurs,2018,High
+781,Oyo,Plumbing,Youth Empowerment,Youth,2019,Medium
+782,Edo,Plumbing,Entrepreneurship Opportunities,Graduates,2016,Low
+783,Cross River,Web Development,Technological Advancement,Artisans,2021,High
+784,Enugu,Tailoring,Market Demand,Youth,2010,High
+785,Anambra,Web Development,Global Trends,Women,2021,High
+786,Kano,Agribusiness,High Unemployment,Women,2013,Medium
+787,Delta,Tailoring,Technological Advancement,Women,2018,Low
+788,Plateau,Graphic Design,Global Trends,Women,2018,High
+789,Anambra,Digital Marketing,Government Initiatives,Graduates,2016,High
+790,Rivers,Mobile App Development,Youth Empowerment,Graduates,2013,Medium
+791,Plateau,Agribusiness,Youth Empowerment,Youth,2022,High
+792,Rivers,Mobile App Development,Entrepreneurship Opportunities,Youth,2010,Medium
+793,Enugu,Agribusiness,Government Initiatives,Artisans,2022,Low
+794,Oyo,Mobile App Development,Technological Advancement,Women,2018,Medium
+795,Edo,Welding,Global Trends,Entrepreneurs,2013,Low
+796,Abuja,Cybersecurity,High Unemployment,Women,2010,Medium
+797,Benue,Data Analysis,High Unemployment,Women,2013,Low
+798,Rivers,Carpentry,Government Initiatives,Graduates,2017,Low
+799,Abuja,Hairdressing,High Unemployment,Youth,2016,Medium
+800,Kaduna,Cybersecurity,Entrepreneurship Opportunities,Entrepreneurs,2020,High
+801,Cross River,Graphic Design,Market Demand,Women,2014,Medium
+802,Oyo,Digital Marketing,Entrepreneurship Opportunities,Youth,2018,Medium
+803,Ogun,Digital Marketing,Entrepreneurship Opportunities,Artisans,2013,High
+804,Plateau,Graphic Design,Global Trends,Graduates,2016,High
+805,Plateau,Data Analysis,Youth Empowerment,Entrepreneurs,2016,High
+806,Enugu,Photography,High Unemployment,Women,2011,High
+807,Edo,Web Development,Market Demand,Artisans,2015,Medium
+808,Edo,Tailoring,Market Demand,Entrepreneurs,2011,High
+809,Kano,Cybersecurity,Entrepreneurship Opportunities,Artisans,2019,High
+810,Benue,Agribusiness,Technological Advancement,Artisans,2011,Low
+811,Enugu,Digital Marketing,Youth Empowerment,Artisans,2018,Low
+812,Benue,Agribusiness,Global Trends,Artisans,2022,High
+813,Delta,Content Writing,Technological Advancement,Entrepreneurs,2018,Medium
+814,Anambra,Catering and Hospitality,High Unemployment,Artisans,2017,Low
+815,Abuja,Agribusiness,Technological Advancement,Women,2016,High
+816,Plateau,Graphic Design,High Unemployment,Entrepreneurs,2018,Low
+817,Ogun,Agribusiness,Market Demand,Entrepreneurs,2017,High
+818,Ogun,Content Writing,Government Initiatives,Women,2012,Low
+819,Plateau,Tailoring,Technological Advancement,Women,2014,Low
+820,Rivers,Graphic Design,Youth Empowerment,Women,2015,Low
+821,Edo,Agribusiness,Market Demand,Youth,2017,High
+822,Anambra,Graphic Design,Technological Advancement,Youth,2020,Medium
+823,Kaduna,Digital Marketing,Global Trends,Youth,2018,Medium
+824,Benue,Cybersecurity,Technological Advancement,Artisans,2015,Medium
+825,Borno,Digital Marketing,Entrepreneurship Opportunities,Artisans,2023,High
+826,Rivers,Cybersecurity,Technological Advancement,Artisans,2015,Medium
+827,Ogun,Mobile App Development,Entrepreneurship Opportunities,Graduates,2010,Low
+828,Delta,Digital Marketing,Technological Advancement,Artisans,2012,Medium
+829,Cross River,Hairdressing,Technological Advancement,Artisans,2014,Medium
+830,Plateau,Content Writing,High Unemployment,Youth,2014,Low
+831,Kaduna,Plumbing,Technological Advancement,Artisans,2010,Low
+832,Lagos,Content Writing,Youth Empowerment,Entrepreneurs,2013,High
+833,Plateau,Catering and Hospitality,Youth Empowerment,Youth,2015,Medium
+834,Delta,Mobile App Development,Market Demand,Artisans,2015,Low
+835,Plateau,Web Development,Market Demand,Graduates,2018,Low
+836,Kaduna,Cybersecurity,Government Initiatives,Women,2015,Low
+837,Borno,Tailoring,Global Trends,Entrepreneurs,2010,High
+838,Kaduna,Welding,Government Initiatives,Graduates,2011,Medium
+839,Kaduna,Agribusiness,Global Trends,Youth,2015,Low
+840,Borno,Tailoring,Market Demand,Women,2020,Low
+841,Ogun,Graphic Design,Market Demand,Women,2015,Low
+842,Cross River,Catering and Hospitality,Entrepreneurship Opportunities,Women,2023,Medium
+843,Borno,Web Development,Global Trends,Graduates,2016,Low
+844,Enugu,Cybersecurity,Global Trends,Graduates,2013,Low
+845,Kaduna,Catering and Hospitality,Government Initiatives,Entrepreneurs,2018,High
+846,Lagos,Carpentry,Entrepreneurship Opportunities,Youth,2022,Low
+847,Lagos,Graphic Design,Government Initiatives,Artisans,2023,Medium
+848,Kaduna,Data Analysis,Technological Advancement,Women,2023,Low
+849,Kano,Graphic Design,Government Initiatives,Entrepreneurs,2016,Medium
+850,Anambra,Catering and Hospitality,Market Demand,Women,2018,Low
+851,Cross River,Catering and Hospitality,Market Demand,Graduates,2015,Medium
+852,Plateau,Mobile App Development,Youth Empowerment,Entrepreneurs,2015,Medium
+853,Rivers,Mobile App Development,High Unemployment,Artisans,2019,Low
+854,Oyo,Web Development,Government Initiatives,Graduates,2013,High
+855,Kaduna,Catering and Hospitality,Entrepreneurship Opportunities,Youth,2010,High
+856,Abuja,Agribusiness,Technological Advancement,Artisans,2013,High
+857,Delta,Welding,Global Trends,Youth,2022,Medium
+858,Borno,Tailoring,Government Initiatives,Women,2021,Low
+859,Rivers,Carpentry,Entrepreneurship Opportunities,Women,2019,Low
+860,Borno,Photography,Entrepreneurship Opportunities,Entrepreneurs,2010,Medium
+861,Anambra,Carpentry,Technological Advancement,Women,2012,Low
+862,Cross River,Tailoring,Global Trends,Graduates,2013,High
+863,Cross River,Hairdressing,High Unemployment,Artisans,2015,High
+864,Plateau,Catering and Hospitality,Youth Empowerment,Women,2016,Low
+865,Benue,Tailoring,High Unemployment,Graduates,2018,High
+866,Cross River,Mobile App Development,High Unemployment,Artisans,2018,High
+867,Abuja,Agribusiness,Youth Empowerment,Artisans,2017,Medium
+868,Abuja,Welding,Technological Advancement,Youth,2011,Medium
+869,Anambra,Photography,Global Trends,Women,2015,High
+870,Benue,Carpentry,Entrepreneurship Opportunities,Artisans,2014,Low
+871,Kaduna,Cybersecurity,Entrepreneurship Opportunities,Artisans,2017,Medium
+872,Kaduna,Graphic Design,Technological Advancement,Graduates,2016,Low
+873,Anambra,Hairdressing,Government Initiatives,Youth,2016,High
+874,Anambra,Plumbing,Market Demand,Women,2023,Medium
+875,Delta,Agribusiness,Market Demand,Artisans,2018,Medium
+876,Anambra,Plumbing,Government Initiatives,Youth,2023,Low
+877,Kaduna,Plumbing,Global Trends,Women,2015,Medium
+878,Delta,Cybersecurity,Market Demand,Women,2016,Low
+879,Kaduna,Photography,High Unemployment,Artisans,2021,Low
+880,Plateau,Welding,Technological Advancement,Entrepreneurs,2019,Medium
+881,Cross River,Web Development,High Unemployment,Youth,2013,Medium
+882,Kano,Tailoring,Youth Empowerment,Women,2012,High
+883,Oyo,Carpentry,High Unemployment,Entrepreneurs,2014,Low
+884,Cross River,Tailoring,Technological Advancement,Entrepreneurs,2012,Low
+885,Ogun,Carpentry,Global Trends,Graduates,2016,High
+886,Cross River,Cybersecurity,Entrepreneurship Opportunities,Artisans,2011,Low
+887,Rivers,Data Analysis,Global Trends,Graduates,2012,Low
+888,Plateau,Photography,Global Trends,Youth,2023,High
+889,Kano,Welding,Market Demand,Graduates,2016,Low
+890,Rivers,Tailoring,Entrepreneurship Opportunities,Women,2014,Low
+891,Kaduna,Digital Marketing,Technological Advancement,Artisans,2017,High
+892,Lagos,Data Analysis,Technological Advancement,Women,2013,High
+893,Edo,Catering and Hospitality,Market Demand,Graduates,2014,Medium
+894,Abuja,Welding,Global Trends,Entrepreneurs,2022,Low
+895,Delta,Mobile App Development,Entrepreneurship Opportunities,Youth,2019,High
+896,Rivers,Photography,Government Initiatives,Women,2012,Low
+897,Cross River,Plumbing,Youth Empowerment,Women,2017,Low
+898,Abuja,Cybersecurity,Market Demand,Entrepreneurs,2014,High
+899,Anambra,Data Analysis,Youth Empowerment,Graduates,2014,High
+900,Abuja,Data Analysis,Entrepreneurship Opportunities,Graduates,2013,Low
+901,Enugu,Digital Marketing,Entrepreneurship Opportunities,Women,2011,Low
+902,Rivers,Web Development,Entrepreneurship Opportunities,Graduates,2022,High
+903,Edo,Photography,Technological Advancement,Artisans,2010,Medium
+904,Lagos,Catering and Hospitality,High Unemployment,Graduates,2014,Low
+905,Cross River,Photography,Market Demand,Youth,2020,High
+906,Kano,Data Analysis,Youth Empowerment,Graduates,2017,High
+907,Plateau,Graphic Design,Entrepreneurship Opportunities,Entrepreneurs,2016,Medium
+908,Kaduna,Carpentry,Entrepreneurship Opportunities,Artisans,2016,Medium
+909,Edo,Graphic Design,Global Trends,Entrepreneurs,2014,Low
+910,Oyo,Digital Marketing,Global Trends,Entrepreneurs,2014,High
+911,Ogun,Digital Marketing,Government Initiatives,Youth,2010,Low
+912,Rivers,Tailoring,Technological Advancement,Graduates,2013,Low
+913,Cross River,Carpentry,High Unemployment,Entrepreneurs,2016,High
+914,Ogun,Digital Marketing,Market Demand,Entrepreneurs,2010,Medium
+915,Lagos,Data Analysis,Global Trends,Graduates,2015,Low
+916,Cross River,Photography,Youth Empowerment,Youth,2016,Medium
+917,Kano,Data Analysis,Technological Advancement,Artisans,2021,Low
+918,Kano,Cybersecurity,Youth Empowerment,Youth,2022,High
+919,Ogun,Plumbing,Technological Advancement,Women,2016,Medium
+920,Enugu,Hairdressing,Entrepreneurship Opportunities,Youth,2022,Medium
+921,Kano,Content Writing,Government Initiatives,Youth,2020,Low
+922,Rivers,Welding,Market Demand,Entrepreneurs,2021,Medium
+923,Edo,Agribusiness,High Unemployment,Artisans,2017,Low
+924,Abuja,Tailoring,Government Initiatives,Entrepreneurs,2020,High
+925,Benue,Data Analysis,Entrepreneurship Opportunities,Graduates,2010,Low
+926,Oyo,Digital Marketing,High Unemployment,Artisans,2010,Medium
+927,Lagos,Digital Marketing,Entrepreneurship Opportunities,Graduates,2014,Low
+928,Rivers,Data Analysis,Technological Advancement,Entrepreneurs,2019,High
+929,Plateau,Mobile App Development,Entrepreneurship Opportunities,Artisans,2016,Medium
+930,Ogun,Graphic Design,Government Initiatives,Entrepreneurs,2012,Low
+931,Borno,Photography,Market Demand,Graduates,2016,Medium
+932,Borno,Welding,Government Initiatives,Artisans,2016,Low
+933,Anambra,Data Analysis,High Unemployment,Women,2023,High
+934,Kaduna,Mobile App Development,Youth Empowerment,Women,2010,Low
+935,Ogun,Catering and Hospitality,Global Trends,Women,2018,Medium
+936,Kano,Hairdressing,Entrepreneurship Opportunities,Artisans,2014,Medium
+937,Abuja,Web Development,Global Trends,Artisans,2011,High
+938,Enugu,Catering and Hospitality,Technological Advancement,Entrepreneurs,2015,High
+939,Abuja,Catering and Hospitality,High Unemployment,Entrepreneurs,2017,Medium
+940,Oyo,Data Analysis,Youth Empowerment,Women,2012,Medium
+941,Kano,Catering and Hospitality,Entrepreneurship Opportunities,Women,2018,High
+942,Cross River,Catering and Hospitality,Government Initiatives,Graduates,2010,High
+943,Delta,Carpentry,Youth Empowerment,Graduates,2020,Low
+944,Abuja,Web Development,Youth Empowerment,Graduates,2011,Low
+945,Cross River,Welding,Global Trends,Entrepreneurs,2014,Low
+946,Borno,Carpentry,Government Initiatives,Women,2013,Low
+947,Edo,Digital Marketing,Entrepreneurship Opportunities,Entrepreneurs,2012,High
+948,Borno,Mobile App Development,Youth Empowerment,Graduates,2014,High
+949,Ogun,Catering and Hospitality,Global Trends,Youth,2019,Medium
+950,Plateau,Carpentry,Global Trends,Graduates,2016,Low
+951,Delta,Catering and Hospitality,High Unemployment,Youth,2015,Low
+952,Enugu,Tailoring,Government Initiatives,Youth,2013,High
+953,Delta,Hairdressing,Government Initiatives,Entrepreneurs,2017,Low
+954,Cross River,Welding,High Unemployment,Graduates,2022,High
+955,Enugu,Agribusiness,Entrepreneurship Opportunities,Graduates,2016,High
+956,Cross River,Graphic Design,Youth Empowerment,Graduates,2013,Low
+957,Abuja,Plumbing,High Unemployment,Youth,2010,Low
+958,Lagos,Data Analysis,Government Initiatives,Artisans,2011,High
+959,Cross River,Content Writing,Technological Advancement,Women,2021,High
+960,Benue,Tailoring,Technological Advancement,Women,2016,Medium
+961,Ogun,Hairdressing,Market Demand,Graduates,2021,Medium
+962,Kaduna,Hairdressing,Government Initiatives,Women,2023,High
+963,Rivers,Photography,High Unemployment,Artisans,2011,High
+964,Plateau,Digital Marketing,Technological Advancement,Youth,2017,Medium
+965,Anambra,Data Analysis,High Unemployment,Graduates,2012,Low
+966,Kano,Carpentry,Entrepreneurship Opportunities,Women,2021,Medium
+967,Benue,Catering and Hospitality,Government Initiatives,Entrepreneurs,2018,Medium
+968,Benue,Graphic Design,Youth Empowerment,Graduates,2017,High
+969,Kano,Carpentry,Entrepreneurship Opportunities,Youth,2019,Low
+970,Plateau,Mobile App Development,High Unemployment,Graduates,2020,High
+971,Delta,Carpentry,Youth Empowerment,Youth,2019,Low
+972,Rivers,Data Analysis,Market Demand,Artisans,2011,High
+973,Lagos,Content Writing,Technological Advancement,Women,2021,High
+974,Anambra,Graphic Design,Entrepreneurship Opportunities,Artisans,2010,Low
+975,Cross River,Carpentry,Technological Advancement,Entrepreneurs,2012,Medium
+976,Abuja,Welding,Youth Empowerment,Artisans,2021,Medium
+977,Enugu,Web Development,Market Demand,Artisans,2016,Medium
+978,Abuja,Catering and Hospitality,Entrepreneurship Opportunities,Entrepreneurs,2013,Low
+979,Rivers,Welding,Entrepreneurship Opportunities,Youth,2019,High
+980,Cross River,Carpentry,Market Demand,Entrepreneurs,2021,High
+981,Ogun,Web Development,Government Initiatives,Entrepreneurs,2014,High
+982,Anambra,Digital Marketing,Government Initiatives,Youth,2022,High
+983,Plateau,Cybersecurity,Market Demand,Artisans,2010,Medium
+984,Plateau,Welding,Entrepreneurship Opportunities,Artisans,2021,High
+985,Anambra,Digital Marketing,Technological Advancement,Youth,2020,Medium
+986,Abuja,Web Development,Technological Advancement,Women,2012,Medium
+987,Ogun,Tailoring,Entrepreneurship Opportunities,Youth,2017,Medium
+988,Lagos,Data Analysis,Technological Advancement,Entrepreneurs,2013,Low
+989,Cross River,Content Writing,High Unemployment,Artisans,2016,Medium
+990,Oyo,Tailoring,High Unemployment,Women,2018,High
+991,Edo,Web Development,Government Initiatives,Entrepreneurs,2013,High
+992,Cross River,Content Writing,Youth Empowerment,Graduates,2013,Low
+993,Abuja,Carpentry,Global Trends,Artisans,2023,Low
+994,Kano,Carpentry,Government Initiatives,Entrepreneurs,2018,Low
+995,Oyo,Catering and Hospitality,High Unemployment,Youth,2020,Low
+996,Abuja,Graphic Design,Technological Advancement,Women,2016,Medium
+997,Rivers,Tailoring,High Unemployment,Graduates,2020,Low
+998,Plateau,Welding,Entrepreneurship Opportunities,Youth,2023,Medium
+999,Ogun,Graphic Design,Government Initiatives,Youth,2016,High
+1000,Kano,Web Development,Global Trends,Artisans,2012,High
+1001,Anambra,Carpentry,Market Demand,Graduates,2023,High
+1002,Ogun,Mobile App Development,Market Demand,Youth,2012,High
+1003,Cross River,Data Analysis,Entrepreneurship Opportunities,Graduates,2010,High
+1004,Benue,Mobile App Development,Government Initiatives,Women,2015,Low
+1005,Lagos,Welding,Entrepreneurship Opportunities,Graduates,2018,Low
+1006,Ogun,Carpentry,Global Trends,Entrepreneurs,2012,Low
+1007,Kaduna,Plumbing,Entrepreneurship Opportunities,Artisans,2015,Low
+1008,Abuja,Plumbing,Technological Advancement,Graduates,2020,Low
+1009,Edo,Plumbing,Youth Empowerment,Artisans,2010,Medium
+1010,Enugu,Content Writing,Market Demand,Graduates,2014,Medium
+1011,Ogun,Digital Marketing,Youth Empowerment,Artisans,2020,Medium
+1012,Anambra,Carpentry,Technological Advancement,Artisans,2018,Low
+1013,Lagos,Catering and Hospitality,Global Trends,Entrepreneurs,2022,Low
+1014,Ogun,Hairdressing,Market Demand,Women,2010,Low
+1015,Enugu,Content Writing,Government Initiatives,Graduates,2022,Low
+1016,Borno,Digital Marketing,Global Trends,Youth,2014,High
+1017,Lagos,Plumbing,Entrepreneurship Opportunities,Women,2022,Medium
+1018,Rivers,Data Analysis,High Unemployment,Entrepreneurs,2016,High
+1019,Benue,Welding,Global Trends,Artisans,2016,Low
+1020,Rivers,Agribusiness,Entrepreneurship Opportunities,Entrepreneurs,2019,Medium
+1021,Rivers,Photography,High Unemployment,Youth,2010,Low
+1022,Abuja,Graphic Design,Technological Advancement,Women,2019,High
+1023,Rivers,Hairdressing,Global Trends,Graduates,2021,Medium
+1024,Enugu,Cybersecurity,Youth Empowerment,Artisans,2011,Low
+1025,Abuja,Cybersecurity,Market Demand,Women,2012,High
+1026,Kano,Graphic Design,Market Demand,Youth,2022,Low
+1027,Abuja,Welding,Technological Advancement,Entrepreneurs,2014,Medium
+1028,Lagos,Photography,Youth Empowerment,Graduates,2023,Medium
+1029,Cross River,Photography,Government Initiatives,Women,2023,High
+1030,Kaduna,Welding,Entrepreneurship Opportunities,Entrepreneurs,2023,Medium
+1031,Abuja,Web Development,Youth Empowerment,Graduates,2023,Low
+1032,Borno,Photography,Government Initiatives,Women,2012,Medium
+1033,Anambra,Cybersecurity,Entrepreneurship Opportunities,Graduates,2016,Low
+1034,Cross River,Tailoring,High Unemployment,Artisans,2021,High
+1035,Cross River,Data Analysis,Global Trends,Artisans,2015,High
+1036,Lagos,Hairdressing,High Unemployment,Entrepreneurs,2014,Medium
+1037,Oyo,Hairdressing,Youth Empowerment,Entrepreneurs,2014,Medium
+1038,Enugu,Data Analysis,Global Trends,Youth,2023,Medium
+1039,Plateau,Cybersecurity,Technological Advancement,Youth,2011,Medium
+1040,Cross River,Carpentry,Market Demand,Artisans,2011,Low
+1041,Oyo,Content Writing,Entrepreneurship Opportunities,Artisans,2013,Low
+1042,Oyo,Content Writing,Youth Empowerment,Artisans,2023,Low
+1043,Plateau,Photography,High Unemployment,Women,2011,Low
+1044,Plateau,Content Writing,Global Trends,Artisans,2017,Medium
+1045,Benue,Plumbing,Youth Empowerment,Graduates,2023,Low
+1046,Delta,Mobile App Development,Market Demand,Graduates,2010,High
+1047,Anambra,Carpentry,Market Demand,Women,2022,Low
+1048,Cross River,Photography,Entrepreneurship Opportunities,Entrepreneurs,2020,High
+1049,Delta,Hairdressing,Global Trends,Artisans,2020,High
+1050,Enugu,Welding,Market Demand,Entrepreneurs,2022,Low
+1051,Kano,Agribusiness,Technological Advancement,Entrepreneurs,2021,High
+1052,Edo,Carpentry,High Unemployment,Youth,2016,High
+1053,Cross River,Plumbing,Market Demand,Artisans,2016,High
+1054,Oyo,Cybersecurity,Market Demand,Women,2020,High
+1055,Borno,Web Development,Youth Empowerment,Graduates,2021,Medium
+1056,Benue,Cybersecurity,Market Demand,Women,2016,Low
+1057,Rivers,Catering and Hospitality,Youth Empowerment,Graduates,2012,Low
+1058,Cross River,Graphic Design,Youth Empowerment,Entrepreneurs,2017,Medium
+1059,Benue,Agribusiness,High Unemployment,Women,2012,High
+1060,Oyo,Digital Marketing,Global Trends,Graduates,2018,Low
+1061,Oyo,Welding,Government Initiatives,Graduates,2010,Low
+1062,Edo,Data Analysis,Global Trends,Women,2012,High
+1063,Delta,Photography,Entrepreneurship Opportunities,Graduates,2017,Low
+1064,Ogun,Mobile App Development,Youth Empowerment,Graduates,2018,Medium
+1065,Cross River,Mobile App Development,Entrepreneurship Opportunities,Youth,2021,Medium
+1066,Kaduna,Graphic Design,Government Initiatives,Graduates,2019,Medium
+1067,Oyo,Carpentry,High Unemployment,Youth,2016,Medium
+1068,Rivers,Plumbing,Technological Advancement,Artisans,2013,Medium
+1069,Oyo,Hairdressing,High Unemployment,Entrepreneurs,2019,High
+1070,Delta,Web Development,Global Trends,Artisans,2019,Low
+1071,Enugu,Photography,Technological Advancement,Graduates,2013,High
+1072,Anambra,Photography,Government Initiatives,Women,2021,Low
+1073,Kano,Graphic Design,High Unemployment,Youth,2010,Low
+1074,Anambra,Digital Marketing,Technological Advancement,Entrepreneurs,2017,High
+1075,Kano,Hairdressing,Entrepreneurship Opportunities,Entrepreneurs,2020,High
+1076,Kano,Cybersecurity,Youth Empowerment,Women,2019,High
+1077,Edo,Tailoring,High Unemployment,Graduates,2023,Medium
+1078,Plateau,Photography,High Unemployment,Artisans,2017,Low
+1079,Kaduna,Data Analysis,Entrepreneurship Opportunities,Artisans,2018,Medium
+1080,Cross River,Tailoring,Youth Empowerment,Graduates,2014,High
+1081,Enugu,Tailoring,Global Trends,Artisans,2016,High
+1082,Kano,Catering and Hospitality,Government Initiatives,Women,2022,High
+1083,Abuja,Content Writing,Technological Advancement,Artisans,2010,High
+1084,Kano,Catering and Hospitality,High Unemployment,Entrepreneurs,2015,Low
+1085,Lagos,Data Analysis,Market Demand,Women,2012,Medium
+1086,Abuja,Plumbing,Government Initiatives,Youth,2022,Low
+1087,Edo,Agribusiness,Market Demand,Youth,2020,Low
+1088,Edo,Digital Marketing,Government Initiatives,Artisans,2019,High
+1089,Plateau,Data Analysis,Technological Advancement,Graduates,2022,Low
+1090,Anambra,Content Writing,Global Trends,Graduates,2016,High
+1091,Edo,Mobile App Development,Global Trends,Women,2013,High
+1092,Cross River,Photography,Government Initiatives,Youth,2012,Low
+1093,Anambra,Content Writing,Market Demand,Youth,2022,Low
+1094,Oyo,Web Development,Technological Advancement,Graduates,2012,Low
+1095,Edo,Mobile App Development,Youth Empowerment,Women,2012,Medium
+1096,Edo,Catering and Hospitality,Government Initiatives,Graduates,2018,Low
+1097,Oyo,Agribusiness,Market Demand,Entrepreneurs,2022,Medium
+1098,Edo,Welding,Technological Advancement,Women,2012,High
+1099,Enugu,Graphic Design,Government Initiatives,Entrepreneurs,2021,High
+1100,Cross River,Photography,High Unemployment,Artisans,2019,Low
+1101,Plateau,Welding,Global Trends,Graduates,2012,High
+1102,Cross River,Mobile App Development,High Unemployment,Artisans,2022,High
+1103,Abuja,Photography,Market Demand,Graduates,2010,High
+1104,Benue,Web Development,Technological Advancement,Youth,2023,High
+1105,Oyo,Mobile App Development,Entrepreneurship Opportunities,Women,2016,Low
+1106,Plateau,Photography,High Unemployment,Entrepreneurs,2018,Low
+1107,Benue,Agribusiness,Youth Empowerment,Graduates,2023,Medium
+1108,Cross River,Carpentry,Technological Advancement,Women,2011,High
+1109,Cross River,Cybersecurity,Government Initiatives,Graduates,2023,High
+1110,Anambra,Cybersecurity,Entrepreneurship Opportunities,Artisans,2012,Low
+1111,Borno,Cybersecurity,Government Initiatives,Women,2013,Medium
+1112,Plateau,Tailoring,High Unemployment,Graduates,2022,Medium
+1113,Kaduna,Graphic Design,High Unemployment,Youth,2010,Low
+1114,Edo,Tailoring,Global Trends,Women,2022,Medium
+1115,Abuja,Photography,Entrepreneurship Opportunities,Artisans,2019,Low
+1116,Rivers,Agribusiness,Technological Advancement,Graduates,2022,Low
+1117,Edo,Tailoring,Entrepreneurship Opportunities,Artisans,2014,Medium
+1118,Edo,Mobile App Development,Youth Empowerment,Women,2019,Low
+1119,Anambra,Agribusiness,Global Trends,Women,2011,Medium
+1120,Oyo,Catering and Hospitality,Global Trends,Youth,2018,High
+1121,Anambra,Hairdressing,Global Trends,Entrepreneurs,2020,Medium
+1122,Benue,Agribusiness,Youth Empowerment,Artisans,2013,Medium
+1123,Kano,Mobile App Development,Technological Advancement,Entrepreneurs,2023,High
+1124,Ogun,Catering and Hospitality,Global Trends,Artisans,2014,Low
+1125,Kano,Welding,High Unemployment,Graduates,2020,Medium
+1126,Kaduna,Data Analysis,Entrepreneurship Opportunities,Artisans,2015,High
+1127,Ogun,Data Analysis,Youth Empowerment,Graduates,2012,Low
+1128,Edo,Web Development,Technological Advancement,Graduates,2015,Medium
+1129,Cross River,Photography,Technological Advancement,Entrepreneurs,2019,Low
+1130,Cross River,Tailoring,Government Initiatives,Women,2020,Medium
+1131,Benue,Welding,Market Demand,Artisans,2016,Medium
+1132,Abuja,Catering and Hospitality,Technological Advancement,Youth,2022,Low
+1133,Delta,Graphic Design,Technological Advancement,Entrepreneurs,2018,Low
+1134,Kaduna,Data Analysis,Market Demand,Women,2015,Medium
+1135,Benue,Agribusiness,Technological Advancement,Women,2021,Low
+1136,Abuja,Data Analysis,High Unemployment,Women,2012,Medium
+1137,Kaduna,Graphic Design,Global Trends,Entrepreneurs,2015,Low
+1138,Oyo,Plumbing,Youth Empowerment,Women,2023,Low
+1139,Rivers,Plumbing,Youth Empowerment,Artisans,2014,Medium
+1140,Kano,Digital Marketing,Youth Empowerment,Artisans,2012,Medium
+1141,Ogun,Photography,Technological Advancement,Women,2012,Low
+1142,Ogun,Photography,Government Initiatives,Entrepreneurs,2021,Low
+1143,Anambra,Photography,Global Trends,Graduates,2023,Low
+1144,Anambra,Tailoring,Technological Advancement,Women,2013,High
+1145,Delta,Carpentry,Government Initiatives,Youth,2021,Medium
+1146,Kaduna,Plumbing,Government Initiatives,Artisans,2010,Medium
+1147,Ogun,Catering and Hospitality,High Unemployment,Entrepreneurs,2012,High
+1148,Rivers,Data Analysis,Government Initiatives,Entrepreneurs,2010,Low
+1149,Kano,Welding,Government Initiatives,Artisans,2014,Low
+1150,Ogun,Web Development,Technological Advancement,Entrepreneurs,2010,Low
+1151,Abuja,Tailoring,Technological Advancement,Youth,2023,Medium
+1152,Plateau,Digital Marketing,Entrepreneurship Opportunities,Youth,2013,Low
+1153,Abuja,Data Analysis,Youth Empowerment,Artisans,2021,Low
+1154,Benue,Data Analysis,Government Initiatives,Graduates,2023,High
+1155,Benue,Carpentry,Technological Advancement,Artisans,2017,High
+1156,Rivers,Cybersecurity,Global Trends,Entrepreneurs,2013,Medium
+1157,Edo,Hairdressing,Technological Advancement,Artisans,2019,High
+1158,Edo,Plumbing,Technological Advancement,Youth,2013,High
+1159,Cross River,Mobile App Development,Market Demand,Artisans,2016,Medium
+1160,Enugu,Photography,Youth Empowerment,Artisans,2016,Medium
+1161,Delta,Hairdressing,Technological Advancement,Artisans,2019,Low
+1162,Kaduna,Mobile App Development,Government Initiatives,Youth,2015,High
+1163,Delta,Catering and Hospitality,Youth Empowerment,Women,2016,Low
+1164,Edo,Agribusiness,Global Trends,Graduates,2017,Low
+1165,Kano,Plumbing,Youth Empowerment,Entrepreneurs,2012,High
+1166,Rivers,Catering and Hospitality,Government Initiatives,Entrepreneurs,2022,Medium
+1167,Abuja,Digital Marketing,Youth Empowerment,Women,2023,High
+1168,Ogun,Photography,Government Initiatives,Entrepreneurs,2017,Low
+1169,Rivers,Carpentry,Global Trends,Youth,2020,High
+1170,Plateau,Graphic Design,High Unemployment,Graduates,2013,Low
+1171,Oyo,Welding,Youth Empowerment,Women,2010,Medium
+1172,Edo,Cybersecurity,Global Trends,Youth,2021,Low
+1173,Ogun,Agribusiness,High Unemployment,Graduates,2011,High
+1174,Benue,Welding,Youth Empowerment,Graduates,2023,Low
+1175,Enugu,Plumbing,High Unemployment,Graduates,2020,High
+1176,Plateau,Cybersecurity,Global Trends,Women,2011,High
+1177,Cross River,Content Writing,Government Initiatives,Artisans,2019,Medium
+1178,Edo,Cybersecurity,Global Trends,Women,2018,Low
+1179,Benue,Digital Marketing,Government Initiatives,Graduates,2018,Low
+1180,Lagos,Photography,Government Initiatives,Youth,2019,Medium
+1181,Kaduna,Digital Marketing,High Unemployment,Youth,2023,Medium
+1182,Kaduna,Welding,Market Demand,Women,2020,High
+1183,Plateau,Graphic Design,Entrepreneurship Opportunities,Graduates,2023,Low
+1184,Anambra,Carpentry,Market Demand,Artisans,2017,Medium
+1185,Benue,Content Writing,Youth Empowerment,Artisans,2010,Low
+1186,Anambra,Catering and Hospitality,Market Demand,Women,2020,High
+1187,Kaduna,Tailoring,Global Trends,Women,2022,Low
+1188,Ogun,Plumbing,Global Trends,Entrepreneurs,2011,Low
+1189,Cross River,Mobile App Development,Global Trends,Artisans,2016,Low
+1190,Anambra,Graphic Design,Market Demand,Graduates,2022,Low
+1191,Kaduna,Hairdressing,High Unemployment,Artisans,2017,High
+1192,Oyo,Tailoring,Global Trends,Graduates,2023,Medium
+1193,Enugu,Catering and Hospitality,Youth Empowerment,Women,2022,Medium
+1194,Lagos,Tailoring,High Unemployment,Artisans,2019,Low
+1195,Kano,Hairdressing,Youth Empowerment,Artisans,2022,High
+1196,Lagos,Graphic Design,Technological Advancement,Women,2020,Medium
+1197,Cross River,Web Development,Entrepreneurship Opportunities,Artisans,2011,Medium
+1198,Plateau,Cybersecurity,Entrepreneurship Opportunities,Entrepreneurs,2012,Medium
+1199,Plateau,Tailoring,Market Demand,Artisans,2010,Low
+1200,Kano,Graphic Design,Entrepreneurship Opportunities,Artisans,2018,Medium
+1201,Lagos,Tailoring,Technological Advancement,Artisans,2010,Medium
+1202,Anambra,Agribusiness,Youth Empowerment,Women,2021,Low
+1203,Enugu,Plumbing,Entrepreneurship Opportunities,Graduates,2014,Medium
+1204,Oyo,Data Analysis,Market Demand,Graduates,2023,High
+1205,Abuja,Photography,High Unemployment,Entrepreneurs,2016,High
+1206,Oyo,Hairdressing,Market Demand,Graduates,2019,High
+1207,Abuja,Photography,Youth Empowerment,Artisans,2015,Low
+1208,Rivers,Hairdressing,Entrepreneurship Opportunities,Women,2020,Low
+1209,Oyo,Mobile App Development,Global Trends,Artisans,2015,Low
+1210,Benue,Welding,Youth Empowerment,Artisans,2014,High
+1211,Kano,Cybersecurity,Global Trends,Youth,2012,High
+1212,Borno,Tailoring,Global Trends,Women,2022,Medium
+1213,Abuja,Photography,Government Initiatives,Women,2021,High
+1214,Cross River,Hairdressing,High Unemployment,Graduates,2012,Medium
+1215,Lagos,Data Analysis,Youth Empowerment,Youth,2012,Medium
+1216,Delta,Cybersecurity,Technological Advancement,Artisans,2010,High
+1217,Lagos,Graphic Design,Technological Advancement,Women,2010,High
+1218,Kano,Hairdressing,Global Trends,Women,2023,High
+1219,Edo,Plumbing,Entrepreneurship Opportunities,Youth,2020,Low
+1220,Anambra,Web Development,Market Demand,Women,2018,High
+1221,Kaduna,Mobile App Development,Entrepreneurship Opportunities,Women,2022,Medium
+1222,Plateau,Data Analysis,Entrepreneurship Opportunities,Entrepreneurs,2011,High
+1223,Enugu,Photography,Global Trends,Entrepreneurs,2011,Medium
+1224,Benue,Cybersecurity,Government Initiatives,Graduates,2011,Low
+1225,Borno,Cybersecurity,High Unemployment,Graduates,2020,Low
+1226,Rivers,Content Writing,Youth Empowerment,Women,2012,Medium
+1227,Edo,Photography,Technological Advancement,Artisans,2012,High
+1228,Kano,Cybersecurity,Market Demand,Artisans,2021,High
+1229,Borno,Data Analysis,Government Initiatives,Graduates,2020,High
+1230,Oyo,Digital Marketing,Youth Empowerment,Artisans,2013,Low
+1231,Kano,Plumbing,Youth Empowerment,Entrepreneurs,2019,Medium
+1232,Benue,Hairdressing,Youth Empowerment,Entrepreneurs,2022,Medium
+1233,Oyo,Cybersecurity,High Unemployment,Artisans,2011,Medium
+1234,Delta,Digital Marketing,Market Demand,Women,2016,Medium
+1235,Enugu,Graphic Design,Global Trends,Graduates,2021,High
+1236,Edo,Content Writing,Technological Advancement,Artisans,2012,High
+1237,Kano,Content Writing,Technological Advancement,Entrepreneurs,2012,Low
+1238,Ogun,Catering and Hospitality,Entrepreneurship Opportunities,Artisans,2023,Low
+1239,Borno,Digital Marketing,Entrepreneurship Opportunities,Entrepreneurs,2019,Low
+1240,Cross River,Photography,Government Initiatives,Graduates,2017,Low
+1241,Anambra,Mobile App Development,Global Trends,Youth,2020,Low
+1242,Edo,Digital Marketing,Global Trends,Artisans,2021,Medium
+1243,Borno,Mobile App Development,Entrepreneurship Opportunities,Youth,2013,Low
+1244,Borno,Digital Marketing,Technological Advancement,Women,2020,High
+1245,Benue,Agribusiness,Youth Empowerment,Women,2013,Medium
+1246,Plateau,Mobile App Development,Entrepreneurship Opportunities,Artisans,2010,Low
+1247,Anambra,Graphic Design,Technological Advancement,Artisans,2015,Low
+1248,Oyo,Mobile App Development,Government Initiatives,Entrepreneurs,2011,High
+1249,Cross River,Mobile App Development,Government Initiatives,Artisans,2021,Medium
+1250,Kano,Photography,Government Initiatives,Women,2012,Medium
+1251,Plateau,Hairdressing,Entrepreneurship Opportunities,Youth,2012,High
+1252,Plateau,Tailoring,Government Initiatives,Artisans,2012,Low
+1253,Edo,Hairdressing,High Unemployment,Artisans,2011,High
+1254,Plateau,Mobile App Development,Global Trends,Women,2011,Low
+1255,Delta,Web Development,High Unemployment,Youth,2013,Medium
+1256,Delta,Welding,Entrepreneurship Opportunities,Artisans,2017,High
+1257,Oyo,Content Writing,Global Trends,Artisans,2010,High
+1258,Lagos,Graphic Design,Youth Empowerment,Artisans,2018,Low
+1259,Enugu,Hairdressing,Youth Empowerment,Graduates,2017,Medium
+1260,Borno,Welding,Youth Empowerment,Artisans,2013,Low
+1261,Rivers,Hairdressing,Entrepreneurship Opportunities,Graduates,2012,Low
+1262,Borno,Carpentry,Market Demand,Artisans,2015,Medium
+1263,Oyo,Hairdressing,Youth Empowerment,Youth,2011,Low
+1264,Borno,Data Analysis,Government Initiatives,Artisans,2014,Medium
+1265,Delta,Tailoring,Youth Empowerment,Entrepreneurs,2022,High
+1266,Enugu,Photography,Global Trends,Artisans,2023,Medium
+1267,Oyo,Mobile App Development,High Unemployment,Artisans,2017,High
+1268,Kaduna,Digital Marketing,Market Demand,Entrepreneurs,2022,Low
+1269,Oyo,Welding,Market Demand,Artisans,2014,High
+1270,Plateau,Digital Marketing,Global Trends,Youth,2019,Low
+1271,Plateau,Catering and Hospitality,High Unemployment,Women,2020,Low
+1272,Kaduna,Welding,Technological Advancement,Graduates,2012,Low
+1273,Borno,Web Development,Market Demand,Entrepreneurs,2023,Medium
+1274,Anambra,Data Analysis,Technological Advancement,Women,2010,Medium
+1275,Kaduna,Catering and Hospitality,Government Initiatives,Youth,2014,Low
+1276,Oyo,Web Development,Global Trends,Entrepreneurs,2012,Medium
+1277,Kano,Mobile App Development,Government Initiatives,Youth,2010,Low
+1278,Kano,Plumbing,Global Trends,Entrepreneurs,2021,Medium
+1279,Rivers,Data Analysis,High Unemployment,Entrepreneurs,2021,Low
+1280,Benue,Photography,Youth Empowerment,Women,2016,Medium
+1281,Delta,Digital Marketing,Government Initiatives,Women,2019,Low
+1282,Kano,Welding,Global Trends,Youth,2015,High
+1283,Oyo,Hairdressing,Government Initiatives,Women,2017,Medium
+1284,Oyo,Web Development,Government Initiatives,Entrepreneurs,2019,High
+1285,Abuja,Hairdressing,Technological Advancement,Graduates,2010,High
+1286,Delta,Content Writing,High Unemployment,Youth,2018,High
+1287,Oyo,Welding,Youth Empowerment,Entrepreneurs,2017,Medium
+1288,Kano,Data Analysis,Global Trends,Artisans,2015,High
+1289,Lagos,Data Analysis,Global Trends,Youth,2010,Low
+1290,Oyo,Hairdressing,Youth Empowerment,Entrepreneurs,2016,Low
+1291,Enugu,Content Writing,Global Trends,Graduates,2020,Medium
+1292,Kano,Hairdressing,High Unemployment,Artisans,2010,Medium
+1293,Kano,Agribusiness,Entrepreneurship Opportunities,Graduates,2018,Medium
+1294,Lagos,Agribusiness,High Unemployment,Youth,2016,Medium
+1295,Abuja,Tailoring,High Unemployment,Entrepreneurs,2020,High
+1296,Oyo,Cybersecurity,Entrepreneurship Opportunities,Entrepreneurs,2015,Medium
+1297,Borno,Hairdressing,Global Trends,Artisans,2016,Medium
+1298,Oyo,Welding,Youth Empowerment,Entrepreneurs,2014,High
+1299,Oyo,Plumbing,High Unemployment,Women,2018,High
+1300,Lagos,Mobile App Development,Global Trends,Entrepreneurs,2019,Low
+1301,Kano,Plumbing,Entrepreneurship Opportunities,Graduates,2013,Medium
+1302,Plateau,Carpentry,High Unemployment,Artisans,2013,High
+1303,Lagos,Tailoring,Global Trends,Graduates,2015,Low
+1304,Rivers,Photography,Global Trends,Youth,2023,Low
+1305,Oyo,Digital Marketing,Entrepreneurship Opportunities,Youth,2016,Medium
+1306,Edo,Plumbing,Technological Advancement,Women,2023,Low
+1307,Anambra,Welding,Youth Empowerment,Artisans,2011,High
+1308,Cross River,Plumbing,Technological Advancement,Youth,2021,Medium
+1309,Oyo,Hairdressing,Technological Advancement,Graduates,2019,Low
+1310,Oyo,Plumbing,High Unemployment,Women,2020,High
+1311,Lagos,Photography,Government Initiatives,Artisans,2022,Medium
+1312,Borno,Photography,High Unemployment,Artisans,2014,Low
+1313,Edo,Catering and Hospitality,Technological Advancement,Artisans,2023,High
+1314,Kano,Photography,Government Initiatives,Entrepreneurs,2019,Medium
+1315,Benue,Welding,Market Demand,Graduates,2011,Medium
+1316,Oyo,Photography,Technological Advancement,Women,2013,Low
+1317,Kaduna,Carpentry,Entrepreneurship Opportunities,Women,2014,Medium
+1318,Plateau,Catering and Hospitality,Entrepreneurship Opportunities,Artisans,2014,Low
+1319,Oyo,Mobile App Development,High Unemployment,Entrepreneurs,2022,Low
+1320,Enugu,Digital Marketing,Youth Empowerment,Youth,2014,Medium
+1321,Delta,Data Analysis,Technological Advancement,Youth,2022,High
+1322,Anambra,Plumbing,Global Trends,Youth,2016,High
+1323,Plateau,Web Development,High Unemployment,Women,2017,Medium
+1324,Benue,Mobile App Development,Technological Advancement,Entrepreneurs,2016,Medium
+1325,Plateau,Web Development,Entrepreneurship Opportunities,Graduates,2022,Low
+1326,Abuja,Catering and Hospitality,Technological Advancement,Entrepreneurs,2020,Medium
+1327,Kano,Data Analysis,Market Demand,Women,2019,High
+1328,Edo,Plumbing,Global Trends,Entrepreneurs,2018,Low
+1329,Edo,Web Development,High Unemployment,Graduates,2011,Medium
+1330,Lagos,Data Analysis,Entrepreneurship Opportunities,Entrepreneurs,2015,Medium
+1331,Anambra,Graphic Design,Market Demand,Artisans,2016,Low
+1332,Ogun,Welding,Global Trends,Artisans,2016,High
+1333,Abuja,Catering and Hospitality,Market Demand,Graduates,2018,Low
+1334,Benue,Digital Marketing,High Unemployment,Entrepreneurs,2020,Medium
+1335,Enugu,Mobile App Development,Technological Advancement,Youth,2012,High
+1336,Edo,Welding,Entrepreneurship Opportunities,Graduates,2023,Medium
+1337,Abuja,Welding,Youth Empowerment,Entrepreneurs,2012,Low
+1338,Cross River,Tailoring,Market Demand,Women,2019,Low
+1339,Edo,Cybersecurity,High Unemployment,Artisans,2020,Medium
+1340,Edo,Hairdressing,Entrepreneurship Opportunities,Women,2018,Medium
+1341,Rivers,Digital Marketing,Technological Advancement,Entrepreneurs,2023,Medium
+1342,Plateau,Welding,Entrepreneurship Opportunities,Artisans,2019,Low
+1343,Kaduna,Digital Marketing,Global Trends,Artisans,2022,High
+1344,Benue,Hairdressing,High Unemployment,Youth,2014,Low
+1345,Borno,Catering and Hospitality,Entrepreneurship Opportunities,Graduates,2011,Low
+1346,Delta,Cybersecurity,Youth Empowerment,Artisans,2019,Medium
+1347,Anambra,Plumbing,Government Initiatives,Entrepreneurs,2018,High
+1348,Kaduna,Welding,Youth Empowerment,Graduates,2021,High
+1349,Anambra,Web Development,Government Initiatives,Women,2017,High
+1350,Edo,Web Development,Government Initiatives,Youth,2021,High
+1351,Benue,Content Writing,Market Demand,Artisans,2020,High
+1352,Oyo,Plumbing,Global Trends,Graduates,2023,Medium
+1353,Rivers,Cybersecurity,High Unemployment,Women,2014,Low
+1354,Cross River,Agribusiness,Youth Empowerment,Entrepreneurs,2012,High
+1355,Benue,Plumbing,Technological Advancement,Artisans,2015,High
+1356,Edo,Catering and Hospitality,Market Demand,Youth,2011,Low
+1357,Rivers,Agribusiness,High Unemployment,Graduates,2021,Medium
+1358,Edo,Cybersecurity,Market Demand,Women,2011,Low
+1359,Anambra,Photography,Global Trends,Youth,2013,Low
+1360,Enugu,Photography,Global Trends,Artisans,2010,Low
+1361,Ogun,Carpentry,Global Trends,Youth,2010,Medium
+1362,Kano,Welding,Market Demand,Graduates,2021,High
+1363,Oyo,Plumbing,Market Demand,Youth,2014,Medium
+1364,Enugu,Content Writing,Market Demand,Women,2012,Low
+1365,Ogun,Mobile App Development,Technological Advancement,Women,2021,High
+1366,Abuja,Hairdressing,High Unemployment,Women,2017,Low
+1367,Enugu,Tailoring,High Unemployment,Youth,2022,Low
+1368,Abuja,Cybersecurity,Global Trends,Entrepreneurs,2023,Low
+1369,Anambra,Cybersecurity,Entrepreneurship Opportunities,Graduates,2018,Low
+1370,Oyo,Welding,Youth Empowerment,Artisans,2022,Medium
+1371,Delta,Graphic Design,Market Demand,Youth,2013,High
+1372,Benue,Cybersecurity,Market Demand,Women,2017,Medium
+1373,Plateau,Agribusiness,Government Initiatives,Youth,2014,Low
+1374,Kaduna,Catering and Hospitality,Global Trends,Women,2017,High
+1375,Kano,Photography,High Unemployment,Graduates,2023,High
+1376,Abuja,Hairdressing,Government Initiatives,Youth,2020,High
+1377,Lagos,Graphic Design,Entrepreneurship Opportunities,Graduates,2015,High
+1378,Cross River,Catering and Hospitality,Global Trends,Graduates,2013,Low
+1379,Edo,Data Analysis,High Unemployment,Graduates,2019,Low
+1380,Kano,Plumbing,Entrepreneurship Opportunities,Youth,2021,Low
+1381,Abuja,Digital Marketing,Government Initiatives,Artisans,2017,Medium
+1382,Borno,Welding,Technological Advancement,Women,2022,High
+1383,Cross River,Graphic Design,Technological Advancement,Entrepreneurs,2019,Low
+1384,Kaduna,Cybersecurity,Technological Advancement,Artisans,2013,Low
+1385,Cross River,Carpentry,Global Trends,Women,2019,Medium
+1386,Lagos,Photography,Entrepreneurship Opportunities,Graduates,2010,Low
+1387,Oyo,Hairdressing,Youth Empowerment,Entrepreneurs,2015,Medium
+1388,Enugu,Agribusiness,Technological Advancement,Artisans,2017,High
+1389,Benue,Catering and Hospitality,Youth Empowerment,Entrepreneurs,2022,High
